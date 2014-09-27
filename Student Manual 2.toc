@@ -1,0 +1,34 @@
+\contentsline {chapter}{\numberline {1}Introduction}{5}
+\contentsline {part}{I\hspace {1em}SAT Math}{13}
+\contentsline {chapter}{\numberline {2}Numbers and Operations}{15}
+\contentsline {section}{\numberline {2.1}Arithmetic word problems (including percent, ratio, and proportion)}{15}
+\contentsline {section}{\numberline {2.2}Properties of integers (even, odd, prime numbers, divisibility,and so forth)}{17}
+\contentsline {section}{\numberline {2.3}Rational Numbers}{19}
+\contentsline {section}{\numberline {2.4}Sequences and Series (including exponential growth)}{21}
+\contentsline {section}{\numberline {2.5}Elementary Number Theory}{23}
+\contentsline {section}{\numberline {2.6}Sets (union, intersection, elements)}{25}
+\contentsline {section}{\numberline {2.7}Counting Techniques}{27}
+\contentsline {chapter}{\numberline {3}Algebra and Functions}{29}
+\contentsline {section}{\numberline {3.1}Substitution and Simplifying Algebraic Expressions}{29}
+\contentsline {section}{\numberline {3.2}Solutions of Linear Equations and Inequalities}{31}
+\contentsline {section}{\numberline {3.3}Properties of Exponents}{33}
+\contentsline {section}{\numberline {3.4}Systems of Equations and Inequalities}{35}
+\contentsline {section}{\numberline {3.5}Equations of Lines}{37}
+\contentsline {section}{\numberline {3.6}Absolute Value}{39}
+\contentsline {section}{\numberline {3.7}Direct and Inverse Variation}{41}
+\contentsline {section}{\numberline {3.8}Quadratic Equations}{43}
+\contentsline {section}{\numberline {3.9}Rational and Radical Equations}{45}
+\contentsline {section}{\numberline {3.10}Concepts of Algebraic Functions}{47}
+\contentsline {section}{\numberline {3.11}Newly Defined Symbols Based on Commonly Used Operations}{49}
+\contentsline {chapter}{\numberline {4}Geometry \& Measurement}{51}
+\contentsline {section}{\numberline {4.1}Area and perimeter of a polygon}{51}
+\contentsline {section}{\numberline {4.2}Area and circumference of a circle}{53}
+\contentsline {section}{\numberline {4.3}Volume of a box, cube, and cylinder}{55}
+\contentsline {section}{\numberline {4.4}Pythagorean theorem and special properties of isosceles, equilateral, and right triangles}{57}
+\contentsline {section}{\numberline {4.5}Properties of parallel and perpendicular lines}{59}
+\contentsline {section}{\numberline {4.6}Slope}{61}
+\contentsline {section}{\numberline {4.7}Similarity}{63}
+\contentsline {section}{\numberline {4.8}Transformations}{65}
+\contentsline {section}{\numberline {4.9}Coordinate geometry}{67}
+\contentsline {section}{\numberline {4.10}Geometric visualization}{69}
+\contentsline {part}{II\hspace {1em}SAT Verbal}{71}

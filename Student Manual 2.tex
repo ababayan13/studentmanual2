@@ -1,0 +1,73 @@
+\documentclass[12pt]{book}
+\usepackage[margin=0.8in]{geometry}
+\parindent=0mm
+\usepackage{tabularx,setspace, amssymb, amsmath, outlines, multicol, paralist, tikz, pgfplots, graphicx,enumitem, multienum, fixltx2e, fancyhdr,soul,lineno}
+\usepackage[document]{ragged2e}
+
+\pagestyle{fancy}
+\everymath{\displaystyle}
+\renewcommand{\indent}{\hspace{1cm}}
+\newcommand{\longline}{\underline{\hspace{2in}} }
+\newcommand{\shortline}{\underline{\hspace{1in}}}
+\renewcommand{\baselinestretch}{1.15}
+\newcommand{\medium}{\textbf{Medium} }
+\newcommand{\basic}{\textbf{Basic} }
+\newcommand{\advanced}{\textbf{Advanced} }
+\newcommand{\plane}{\begin{tikzpicture}[scale=0.6]
+\draw[step=0.5] (0,0) grid (10,10);
+\draw[ultra thick] (0,5) -- (10,5);
+\draw[ultra thick] (5,0) -- (5,10);
+\end{tikzpicture}}
+\renewcommand*\tfrac[2]{
+  \raisebox{-1em}{$\stackrel{\hbox{\underline{\smash{#1}}}}{\hbox{#2}}$}
+}
+\tikzset{every picture/.style={font issue=\footnotesize, scale=0.8},
+	font issue/.style={execute at begin picture={#1\selectfont}},
+	every path/.append style={line width=1 pt}
+}
+
+\lfoot{\raisebox{-.25\height}{\includegraphics[scale=0.1]{logo}}{ \raisebox{0.25\height}{\small\copyright}\ Academic Student Center}}
+
+\title{\textbf{\huge SAT Student Manual 2}}
+\author{\includegraphics{logo}\\\textbf{\large ASC English}}
+\date{}
+
+\pgfplotsset{ every non boxed x axis/.append style={x axis line style=latex-latex}, every non boxed y axis/.append style={y axis line style=latex-latex},
+axis x line=center, axis y line=center,
+xmin=-5, xmax=5, ymin=-5, ymax=5,
+axis line style = ultra thick, ticks=none,}
+
+\begin{document}
+\maketitle
+
+\newpage
+\vspace*{1em}
+
+\vfill
+\begingroup
+\fontsize{10pt}{12pt}\selectfont
+Copyright \copyright 2014 by ASC English and ISSC Management Company, Inc. All rights reserved.
+
+\bigskip
+In consuming this manual, ASC English teachers, students, staff, and their affiliates agree to not reproduce this manual. No part of this manual may be reproduced for distribution to a third part by any person, in any form, or by any means without the expressed, written consent of the publisher, ASC English. Distribution and/or copying includes, but is not limited to, electronic or mechanical distribution, such as photocopying, recording, or information retrieval system. Violators of this policy will be prosecuted to the fullest extent of the law.\\
+ 
+\bigskip
+The SAT is a registered trademark of the College Board. ASC English is not affiliated with the College Board. 
+
+\bigskip
+For more information about ASC English classes or publications, please call 617-730-3705 or go to our website, http:\//\//www.aplusprogram.com\//test\_prep\//sat.html
+
+\bigskip
+ASC English acknowledges the following authors and consultants for their contributions to this manual: Carl and Annie Nelson, ASC English; Lauren Blake, University of Chicago; Rebecca Safier, Harvard University; Richard Torres, Harvard University; Ben Letham, Massachusetts Institute of Technology (MIT); Nielson Phu, The College Panda; Jared Barbaresi, Connecticut College.  
+\endgroup
+
+\tableofcontents
+\include{01_Introduction}
+
+\part{SAT Math}
+\include{03_NumbersOperations}
+\include{05_AlgebraFunctions}
+\include{06_GeometryMeasurementI}
+
+\part{SAT Verbal}
+\end{document}
