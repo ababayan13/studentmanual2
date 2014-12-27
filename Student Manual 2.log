@@ -1,0 +1,2453 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.27)  20 DEC 2014 16:45
+entering extended mode
+**Student*Manual*2.tex
+("C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\Student Manual 2.tex"
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 68 languages loaded.
+(C:\MiKTeX\tex\latex\base\book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(C:\MiKTeX\tex\latex\base\bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (C:\MiKTeX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+(C:\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(C:\MiKTeX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(C:\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+(C:\MiKTeX\tex\latex\geometry\geometry.cfg))
+(C:\MiKTeX\tex\latex\tools\tabularx.sty
+Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
+ (C:\MiKTeX\tex\latex\tools\array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen111
+\extrarowheight=\dimen112
+\NC@list=\toks16
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+\TX@col@width=\dimen113
+\TX@old@table=\dimen114
+\TX@old@col=\dimen115
+\TX@target=\dimen116
+\TX@delta=\dimen117
+\TX@cols=\count91
+\TX@ftn=\toks17
+)
+(C:\MiKTeX\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\MiKTeX\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(C:\MiKTeX\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\MiKTeX\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen118
+))
+(C:\MiKTeX\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen119
+)
+(C:\MiKTeX\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen120
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks20
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks21
+\eqnshift@=\dimen121
+\alignsep@=\dimen122
+\tagshift@=\dimen123
+\tagwidth@=\dimen124
+\totwidth@=\dimen125
+\lineht@=\dimen126
+\@envbody=\toks22
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(C:\MiKTeX\tex\latex\outlines\outlines.sty
+Package: outlines 2012/1/23 1.1 Ch. Pecheur
+ (C:\MiKTeX\tex\latex\base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)) (C:\MiKTeX\tex\latex\tools\multicol.sty
+Package: multicol 2014/10/28 v1.8i multicolumn formatting (FMi)
+\c@tracingmulticols=\count104
+\mult@box=\box28
+\multicol@leftmargin=\dimen127
+\c@unbalance=\count105
+\c@collectmore=\count106
+\doublecol@number=\count107
+\multicoltolerance=\count108
+\multicolpretolerance=\count109
+\full@width=\dimen128
+\page@free=\dimen129
+\premulticols=\dimen130
+\postmulticols=\dimen131
+\multicolsep=\skip48
+\multicolbaselineskip=\skip49
+\partial@page=\box29
+\last@line=\box30
+\maxbalancingoverflow=\dimen132
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count110
+\c@finalcolumnbadness=\count111
+\last@try=\dimen133
+\multicolovershoot=\dimen134
+\multicolundershoot=\dimen135
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\mc@col@check@num=\count112
+)
+(C:\MiKTeX\tex\latex\paralist\paralist.sty
+Package: paralist 2013/06/09 v2.4 Extended list environments
+\pltopsep=\skip50
+\plpartopsep=\skip51
+\plitemsep=\skip52
+\plparsep=\skip53
+\pl@lab=\toks24
+)
+(C:\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+(C:\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+(C:\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+(C:\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks25
+\pgfutil@tempdima=\dimen136
+\pgfutil@tempdimb=\dimen137
+
+(C:\MiKTeX\tex\generic\pgf\utilities\pgfutil-common-lists.tex))
+(C:\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
+\pgfutil@abb=\box54
+
+(C:\MiKTeX\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+
+(C:\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+(C:\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(C:\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(C:\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count113
+))
+\Gin@req@height=\dimen138
+\Gin@req@width=\dimen139
+)
+(C:\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+(C:\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+
+(C:\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
+
+(C:\MiKTeX\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks28
+))
+\pgf@x=\dimen140
+\pgf@y=\dimen141
+\pgf@xa=\dimen142
+\pgf@ya=\dimen143
+\pgf@xb=\dimen144
+\pgf@yb=\dimen145
+\pgf@xc=\dimen146
+\pgf@yc=\dimen147
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count114
+\c@pgf@countb=\count115
+\c@pgf@countc=\count116
+\c@pgf@countd=\count117
+\t@pgf@toka=\toks29
+\t@pgf@tokb=\toks30
+\t@pgf@tokc=\toks31
+
+(C:\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(C:\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(C:\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count118
+\pgfsyssoftpath@bigbuffer@items=\count119
+)
+(C:\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(C:\MiKTeX\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+ (C:\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+) (C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+
+(C:\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+(C:\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
+(C:\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex)
+(C:\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen148
+\pgfmath@count=\count120
+\pgfmath@box=\box55
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+)
+(C:\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
+(C:\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex)
+(C:\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex)
+(C:\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex)
+(C:\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex)
+(C:\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex)
+(C:\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex)
+(C:\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex)
+(C:\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex)))
+(C:\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count121
+))
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen149
+\pgf@picmaxx=\dimen150
+\pgf@picminy=\dimen151
+\pgf@picmaxy=\dimen152
+\pgf@pathminx=\dimen153
+\pgf@pathmaxx=\dimen154
+\pgf@pathminy=\dimen155
+\pgf@pathmaxy=\dimen156
+\pgf@xx=\dimen157
+\pgf@xy=\dimen158
+\pgf@yx=\dimen159
+\pgf@yy=\dimen160
+\pgf@zx=\dimen161
+\pgf@zy=\dimen162
+)
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen163
+\pgf@path@lasty=\dimen164
+)
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen165
+\pgf@shorten@start@additional=\dimen166
+)
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count122
+)
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen167
+)
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen168
+\pgf@pt@y=\dimen169
+\pgf@pt@temp=\dimen170
+)
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen171
+)
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen172
+\pgf@sys@shading@range@num=\count123
+)
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box59
+))
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(C:\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(C:\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box60
+)
+(C:\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(C:\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen173
+\pgf@nodesepend=\dimen174
+)
+(C:\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+))
+(C:\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+(C:\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+(C:\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex))
+(C:\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+(C:\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex))
+(C:\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(C:\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex)
+\pgffor@iter=\dimen175
+\pgffor@skip=\dimen176
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
+))
+(C:\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(C:\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count124
+\pgfplotmarksize=\dimen177
+)
+\tikz@lastx=\dimen178
+\tikz@lasty=\dimen179
+\tikz@lastxsaved=\dimen180
+\tikz@lastysaved=\dimen181
+\tikzleveldistance=\dimen182
+\tikzsiblingdistance=\dimen183
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count125
+\tikznumberofchildren=\count126
+\tikznumberofcurrentchild=\count127
+\tikz@fig@count=\count128
+
+(C:\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count129
+\pgfmatrixcurrentcolumn=\count130
+\pgf@matrix@numberofcolumns=\count131
+)
+\tikz@expandcount=\count132
+
+(C:\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code
+.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+))) (C:\MiKTeX\tex\latex\pgfplots\pgfplots.sty
+(C:\MiKTeX\tex\generic\pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2014/08/04 v1.11 Data Visualization (1.11-3-g4c99d7a)
+
+(C:\MiKTeX\tex\generic\pgfplots\pgfplots.code.tex
+(C:\MiKTeX\tex\generic\pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks37
+\t@pgfplots@tokb=\toks38
+\t@pgfplots@tokc=\toks39
+\pgfplots@tmpa=\dimen184
+\c@pgfplots@coordindex=\count133
+\c@pgfplots@scanlineindex=\count134
+
+(C:\MiKTeX\tex\generic\pgfplots\sys\pgfplotssysgeneric.code.tex))
+(C:\MiKTeX\tex\generic\pgfplots\libs\pgfplotslibrary.code.tex)
+(C:\MiKTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.t
+ex (C:\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex)
+(C:\MiKTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_trig_format.c
+ode.tex)) (C:\MiKTeX\tex\generic\pgfplots\util\pgfplotsutil.code.tex
+(C:\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsliststructure.code.tex)
+(C:\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsliststructureext.code.tex
+) (C:\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count135
+)
+(C:\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsmatrix.code.tex)
+(C:\MiKTeX\tex\generic\pgfplots\numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count136
+\t@pgfplotstable@a=\toks40
+)
+(C:\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsdeque.code.tex)
+(C:\MiKTeX\tex\generic\pgfplots\util\pgfplotsbinary.code.tex
+(C:\MiKTeX\tex\generic\pgfplots\util\pgfplotsbinary.data.code.tex))
+(C:\MiKTeX\tex\generic\pgfplots\util\pgfplotsutil.verb.code.tex)
+(C:\MiKTeX\tex\generic\pgfplots\libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count137
+
+(C:\MiKTeX\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdfte
+x.def))) (C:\MiKTeX\tex\generic\pgfplots\util\pgfplotscolormap.code.tex
+(C:\MiKTeX\tex\generic\pgfplots\util\pgfplotscolor.code.tex))
+(C:\MiKTeX\tex\generic\pgfplots\pgfplotsstackedplots.code.tex)
+(C:\MiKTeX\tex\generic\pgfplots\pgfplotsplothandlers.code.tex
+(C:\MiKTeX\tex\generic\pgfplots\pgfplotsmeshplothandler.code.tex))
+(C:\MiKTeX\tex\generic\pgfplots\pgfplots.scaling.code.tex)
+(C:\MiKTeX\tex\generic\pgfplots\pgfplotscoordprocessing.code.tex)
+(C:\MiKTeX\tex\generic\pgfplots\pgfplots.errorbars.code.tex)
+(C:\MiKTeX\tex\generic\pgfplots\pgfplots.markers.code.tex)
+(C:\MiKTeX\tex\generic\pgfplots\pgfplotsticks.code.tex)
+(C:\MiKTeX\tex\generic\pgfplots\pgfplots.paths.code.tex)
+(C:\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.
+code.tex (C:\MiKTeX\tex\generic\pgf\modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen185
+\pgfdecoratedremainingdistance=\dimen186
+\pgfdecoratedinputsegmentcompleteddistance=\dimen187
+\pgfdecoratedinputsegmentremainingdistance=\dimen188
+\pgf@decorate@distancetomove=\dimen189
+\pgf@decorate@repeatstate=\count138
+\pgfdecorationsegmentamplitude=\dimen190
+\pgfdecorationsegmentlength=\dimen191
+)
+\tikz@lib@dec@box=\box65
+)
+(C:\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.
+pathmorphing.code.tex
+(C:\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorp
+hing.code.tex))
+(C:\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.
+pathreplacing.code.tex
+(C:\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathrepl
+acing.code.tex))
+\pgfplots@numplots=\count139
+\pgfplots@xmin@reg=\dimen192
+\pgfplots@xmax@reg=\dimen193
+\pgfplots@ymin@reg=\dimen194
+\pgfplots@ymax@reg=\dimen195
+\pgfplots@zmin@reg=\dimen196
+\pgfplots@zmax@reg=\dimen197
+)
+(C:\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.co
+de.tex
+File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+ (C:\MiKTeX\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2013/07/20 v3.0.0 (rcs-revision 1.13)
+)))
+(C:\MiKTeX\tex\latex\enumitem\enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip54
+\enit@outerparindent=\dimen198
+\enit@toks=\toks41
+\enit@inbox=\box66
+\enitdp@description=\count140
+)
+(C:\MiKTeX\tex\latex\multenum\multienum.sty
+\usedx=\skip55
+\remainx=\skip56
+\usedxx=\skip57
+\remainxx=\skip58
+\usedxxx=\skip59
+\remainxxx=\skip60
+\usedxxxx=\skip61
+\remainxxxx=\skip62
+\remainxox=\skip63
+\remainxoxx=\skip64
+\remainxxxxx=\skip65
+\usedxxxxx=\skip66
+\c@multienumdepth=\count141
+\c@multienum=\count142
+\c@multienumi=\count143
+\c@multienumii=\count144
+\c@multienumiii=\count145
+\c@multienumiv=\count146
+)
+(C:\MiKTeX\tex\latex\base\fixltx2e.sty
+Package: fixltx2e 2014/09/29 v1.1s fixes to LaTeX
+LaTeX Info: Redefining \em on input line 430.
+LaTeX Info: The control sequence `\[' is already robust on input line 481.
+LaTeX Info: The control sequence `\]' is already robust on input line 482.
+)
+(C:\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip67
+\f@ncyO@elh=\skip68
+\f@ncyO@erh=\skip69
+\f@ncyO@olh=\skip70
+\f@ncyO@orh=\skip71
+\f@ncyO@elf=\skip72
+\f@ncyO@erf=\skip73
+\f@ncyO@olf=\skip74
+\f@ncyO@orf=\skip75
+) (C:\MiKTeX\tex\latex\soul\soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks42
+\SOUL@lasttoken=\toks43
+\SOUL@cmds=\toks44
+\SOUL@buffer=\toks45
+\SOUL@token=\toks46
+\SOUL@spaceskip=\skip76
+\SOUL@ttwidth=\dimen199
+\SOUL@uldp=\dimen200
+\SOUL@ulht=\dimen201
+) (C:\MiKTeX\tex\latex\lineno\lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count147
+\output=\toks47
+\linenoprevgraf=\count148
+\linenumbersep=\dimen202
+\linenumberwidth=\dimen203
+\c@linenumber=\count149
+\c@pagewiselinenumber=\count150
+\c@LN@truepage=\count151
+\c@internallinenumber=\count152
+\c@internallinenumbers=\count153
+\quotelinenumbersep=\dimen204
+\bframerule=\dimen205
+\bframesep=\dimen206
+\bframebox=\box67
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(C:\MiKTeX\tex\latex\tocloft\tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip77
+\cftbeforetoctitleskip=\skip78
+\cftaftertoctitleskip=\skip79
+\cftbeforepartskip=\skip80
+\cftpartnumwidth=\skip81
+\cftpartindent=\skip82
+\cftbeforechapskip=\skip83
+\cftchapindent=\skip84
+\cftchapnumwidth=\skip85
+\cftbeforesecskip=\skip86
+\cftsecindent=\skip87
+\cftsecnumwidth=\skip88
+\cftbeforesubsecskip=\skip89
+\cftsubsecindent=\skip90
+\cftsubsecnumwidth=\skip91
+\cftbeforesubsubsecskip=\skip92
+\cftsubsubsecindent=\skip93
+\cftsubsubsecnumwidth=\skip94
+\cftbeforeparaskip=\skip95
+\cftparaindent=\skip96
+\cftparanumwidth=\skip97
+\cftbeforesubparaskip=\skip98
+\cftsubparaindent=\skip99
+\cftsubparanumwidth=\skip100
+\cftbeforeloftitleskip=\skip101
+\cftafterloftitleskip=\skip102
+\cftbeforefigskip=\skip103
+\cftfigindent=\skip104
+\cftfignumwidth=\skip105
+\c@lofdepth=\count154
+\c@lotdepth=\count155
+\cftbeforelottitleskip=\skip106
+\cftafterlottitleskip=\skip107
+\cftbeforetabskip=\skip108
+\cfttabindent=\skip109
+\cfttabnumwidth=\skip110
+) (C:\MiKTeX\tex\latex\ms\ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+
+LaTeX Warning: Command \@arrayparboxrestore  has changed.
+               Check if current package is valid.
+
+(C:\MiKTeX\tex\latex\ms\everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+(C:\MiKTeX\tex\latex\footmisc\footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks48
+\footnotemargin=\dimen207
+\c@pp@next@reset=\count156
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+\CenteringLeftskip=\skip111
+\RaggedLeftLeftskip=\skip112
+\RaggedRightLeftskip=\skip113
+\CenteringRightskip=\skip114
+\RaggedLeftRightskip=\skip115
+\RaggedRightRightskip=\skip116
+\CenteringParfillskip=\skip117
+\RaggedLeftParfillskip=\skip118
+\RaggedRightParfillskip=\skip119
+\JustifyingParfillskip=\skip120
+\CenteringParindent=\skip121
+\RaggedLeftParindent=\skip122
+\RaggedRightParindent=\skip123
+\JustifyingParindent=\skip124
+)
+("C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\Student Manual 2.aux"
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\Acknowledgments.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\01_Introduction.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\02_MathStrategies.aux)
+
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.1_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.2_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.3_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.4_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.5_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.6_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.7_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.8_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.9_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\04_AlgebraStrategies.a
+ux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.1_AlgebraFunctionsI
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.2_AlgebraFunctionsI
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.3_AlgebraFunctionsI
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.4_AlgebraFunctionsI
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.5_AlgebraFunctionsI
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.1_AlgebraFunctionsI
+I.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.2_AlgebraFunctionsI
+I.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.3_AlgebraFunctionsI
+I.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.4_AlgebraFunctionsI
+I.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.5_AlgebraFunctionsI
+I.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.6_AlgebraFunctionsI
+I.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\07.1_GeometryMeasureme
+ntI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\07.2_GeometryMeasureme
+ntI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\07.3_GeometryMeasureme
+ntI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\07.4_GeometryMeasureme
+ntI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\08.1_GeometryMeasureme
+ntII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\08.2_GeometryMeasureme
+ntII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\08.3_GeometryMeasureme
+ntII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\08.4_GeometryMeasureme
+ntII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\09.1_GeometryMeasureme
+ntIII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\09.2_GeometryMeasureme
+ntIII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\10.1_Statistics.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\10.2_Statistics.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\10.3_Statistics.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\10.4_Statistics.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.1_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.2_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.3_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.4_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.5_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.6_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.7_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.8_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.9_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.10_WritingStrategie
+s.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.11_WritingStrategie
+s.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.12_WritingStrategie
+s.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.1_SentenceImproveme
+nts.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.2_SentenceImproveme
+nts.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.3_SentenceImproveme
+nts.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.4_SentenceImproveme
+nts.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.5_SentenceImproveme
+nts.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.1_ParagraphStrategi
+es.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.2_ParagraphStrategi
+es.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.3_ParagraphStrategi
+es.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.4_ParagraphStrategi
+es.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.5_ParagraphStrategi
+es.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.6_ParagraphStrategi
+es.aux) (C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.1_Essay.aux
+) (C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.2_Essay.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.3_Essay.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.4_Essay.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.5_Essay.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.6_Essay.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.7_Essay.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.8_Essay.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.1_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.2_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.3_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.4_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.5_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.6_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.7_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.8_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.9_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.10_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.11_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.1_ReadingII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.2_ReadingII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.3_ReadingII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.4_ReadingII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.5_ReadingII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.6_ReadingII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.7_ReadingII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.1_ReadingIII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.2_ReadingIII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.3_ReadingIII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.4_ReadingIII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.5_ReadingIII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\18.1_Vocabulary.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(57.81621pt, 498.66258pt, 57.81621pt)
+* v-part:(T,H,B)=(57.81621pt, 679.33757pt, 57.81621pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=498.66258pt
+* \textheight=679.33757pt
+* \oddsidemargin=-14.45378pt
+* \evensidemargin=-14.45378pt
+* \topmargin=-46.32758pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=98.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ABD: EveryShipout initializing macros (C:\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count157
+\scratchdimen=\dimen208
+\scratchbox=\box68
+\nofMPsegments=\count158
+\nofMParguments=\count159
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count160
+\MPscratchDim=\dimen209
+\MPnumerator=\count161
+\makeMPintoPDFobject=\count162
+\everyMPtoPDFconversion=\toks50
+)
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.11} into 
+your preamble.
+ on input line 41.
+
+Package ragged2e Info: ABD: executing \RaggedRight on input line 41.
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 41.
+LaTeX Font Info:    Try loading font information for U+msa on input line 42.
+ (C:\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 42.
+(C:\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<logo.jpg, id=4, 223.83624pt x 226.8475pt>
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 42.
+(pdftex.def)             Requested size: 223.8357pt x 226.84694pt.
+ [1
+
+
+{C:/Users/rtorres.CAMPUS/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:
+/Users/rtorres.CAMPUS/Documents/GitHub/studentmanual2/logo.jpg>]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\Acknowledgments.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
+
+(C:\MiKTeX\tex\latex\base\omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 43.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+ [2
+
+]
+("C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\Student Manual 2.toc"
+[3
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 62.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [4]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 99.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [5])
+\tf@toc=\write4
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 46.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [6]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\01_Introduction.tex
+Chapter 1.
+[7
+
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 33.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [8]
+Overfull \hbox (6.83607pt too wide) in paragraph at lines 39--40
+[]\OT1/cmr/bx/n/12 1.  If wrong an-swers lead to sub-tract-ing points, but a bl
+ank does not af-fect my score, 
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 54.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [9]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 55.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [10]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 90.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [11]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no î in font cmr12!
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 115.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+
+[12])
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 46.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [13]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 48.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [14
+
+
+] [15] [16]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\02_MathStrategies.tex
+Chapter 2.
+) [17
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 52.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [18
+
+
+]
+Chapter 3.
+[19]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.1_NumbersOperations
+.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 16.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [20
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 94.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [21])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.2_NumbersOperations
+.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 16.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [22
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 92.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [23])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.3_NumbersOperations
+.tex
+Overfull \hbox (1.42111pt too wide) in paragraph at lines 22--23
+\OT1/cmr/m/n/12 that costs $450. If she has $100 saved up al-ready, how many da
+ys will it take her to have enough 
+ []
+
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 28.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [24
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 104.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [25])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.4_NumbersOperations
+.tex
+Overfull \hbox (3.55797pt too wide) in paragraph at lines 10--11
+[]\OT1/cmr/bx/n/12 Example 2. \OT1/cmr/m/n/12 The sum of the an-gles of a reg-u
+-lar poly-gon is given by the equa-tion $\OML/cmm/m/it/12 S\OT1/cmr/m/n/12 (\OM
+L/cmm/m/it/12 n\OT1/cmr/m/n/12 ) = 180(\OML/cmm/m/it/12 n \OMS/cmsy/m/n/12  $ 
+ []
+
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 16.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [26
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 91.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [27])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.5_NumbersOperations
+.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 29.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [28
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 103.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [29])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.6_NumbersOperations
+.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 24.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [30
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 100.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [31])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.7_NumbersOperations
+.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 59.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [32
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.8_NumbersOperations
+.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 60.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [33
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.9_NumbersOperations
+.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 61.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [34
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\04_AlgebraStrategies.t
+ex
+Chapter 4.
+) [35
+
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 65.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [36
+
+
+]
+Chapter 5.
+[37]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.1_AlgebraFunctionsI
+.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 21.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [38
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 98.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [39])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.2_AlgebraFunctionsI
+.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 21.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [40
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 103.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [41])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.3_AlgebraFunctionsI
+.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 25.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [42
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 105.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [43])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.4_AlgebraFunctionsI
+.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 22.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [44
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 96.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [45])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.5_AlgebraFunctionsI
+.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 22.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [46
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 96.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [47])
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 72.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [48
+
+
+]
+Chapter 6.
+[49]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.1_AlgebraFunctionsI
+I.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 18.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [50
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 101.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [51])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.2_AlgebraFunctionsI
+I.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 30.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [52
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 104.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [53])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.3_AlgebraFunctionsI
+I.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 18.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [54
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 92.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [55])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.4_AlgebraFunctionsI
+I.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 27.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [56
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 107.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [57])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.5_AlgebraFunctionsI
+I.tex
+Overfull \hbox (7.52661pt too wide) in paragraph at lines 16--17
+\OT1/cmr/m/n/12 sey's ac-count starts at an ini-tial amount of $0.50 and the to
+-tal dou-bles ev-ery day, whereas Ricky's 
+ []
+
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 19.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [58
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 93.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [59])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.6_AlgebraFunctionsI
+I.tex
+Overfull \hbox (3.14114pt too wide) in paragraph at lines 1--1
+[]\OT1/cmr/bx/n/17.28 Newly De-fined Sym-bols Based on Com-monly Used Op- 
+ []
+
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 15.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [60
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 89.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [61])
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 80.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [62
+
+
+]
+Chapter 7.
+[63]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\07.1_GeometryMeasureme
+ntI.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 23.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [64
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 98.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [65])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\07.2_GeometryMeasureme
+ntI.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 26.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [66
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 101.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [67])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\07.3_GeometryMeasureme
+ntI.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 28.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [68
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 103.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [69])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\07.4_GeometryMeasureme
+ntI.tex
+Overfull \hbox (4.63113pt too wide) in paragraph at lines 1--1
+[]\OT1/cmr/bx/n/17.28 Pythagorean The-o-rem and Spe-cial Prop-er-ties of Isosce
+- 
+ []
+
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 18.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [70
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 93.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [71])
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 86.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [72
+
+
+]
+Chapter 8.
+[73]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\08.1_GeometryMeasureme
+ntII.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 26.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [74
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 107.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [75])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\08.2_GeometryMeasureme
+ntII.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 14.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [76
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 89.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [77])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\08.3_GeometryMeasureme
+ntII.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 12.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [78
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 87.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [79])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\08.4_GeometryMeasureme
+ntII.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 12.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [80
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 87.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [81])
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 92.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [82
+
+
+]
+Chapter 9.
+[83]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\09.1_GeometryMeasureme
+ntIII.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 12.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [84
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 87.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [85])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\09.2_GeometryMeasureme
+ntIII.tex
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 12.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [86
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 87.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [87])
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 96.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [88
+
+
+]
+Chapter 10.
+[89]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\10.1_Statistics.tex
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 11.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [90
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 86.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [91])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\10.2_Statistics.tex
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 11.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [92
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 86.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [93])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\10.3_Statistics.tex
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 12.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [94
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 87.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [95])
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\10.4_Statistics.tex
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 12.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [96
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 87.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [97])
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 102.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [98
+
+
+] [99] [100]
+Chapter 11.
+[101
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.1_WritingStrategies
+.tex)
+
+Package Fancyhdr Warning: \headheight is too small (14.49998pt): 
+ Make it at least 41.55003pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 105.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [102
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.2_WritingStrategies
+.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 106.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [103
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.3_WritingStrategies
+.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 107.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [104
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.4_WritingStrategies
+.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 108.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [105
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.5_WritingStrategies
+.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 109.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [106
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.6_WritingStrategies
+.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 110.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [107
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.7_WritingStrategies
+.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 111.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [108
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.8_WritingStrategies
+.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 112.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [109
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.9_WritingStrategies
+.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 113.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [110
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.10_WritingStrategie
+s.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 114.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [111
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.11_WritingStrategie
+s.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 115.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [112
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.12_WritingStrategie
+s.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 116.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [113
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 118.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [114
+
+
+]
+Chapter 12.
+[115]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.1_SentenceImproveme
+nts.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 119.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [116
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.2_SentenceImproveme
+nts.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 120.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [117
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.3_SentenceImproveme
+nts.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 121.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [118
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.4_SentenceImproveme
+nts.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 122.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [119
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.5_SentenceImproveme
+nts.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 123.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [120
+
+
+]
+Chapter 13.
+[121
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.1_ParagraphStrategi
+es.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 126.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [122
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.2_ParagraphStrategi
+es.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 127.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [123
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.3_ParagraphStrategi
+es.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 128.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [124
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.4_ParagraphStrategi
+es.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 129.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [125
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.5_ParagraphStrategi
+es.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 130.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [126
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.6_ParagraphStrategi
+es.tex)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 131.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [127
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 133.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [128
+
+
+]
+Chapter 14.
+[129] (C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.1_Essay.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 134.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [130
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.2_Essay.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 135.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [131
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.3_Essay.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 136.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [132
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.4_Essay.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 137.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [133
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.5_Essay.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 138.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [134
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.6_Essay.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 139.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [135
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.7_Essay.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 140.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [136
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.8_Essay.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 141.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [137
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 143.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [138
+
+
+]
+Chapter 15.
+[139]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.1_ReadingI.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 144.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [140
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.2_ReadingI.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 145.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [141
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.3_ReadingI.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 146.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [142
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.4_ReadingI.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 147.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [143
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.5_ReadingI.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 148.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [144
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.6_ReadingI.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 149.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [145
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.7_ReadingI.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 150.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [146
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.8_ReadingI.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 151.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [147
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.9_ReadingI.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 152.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [148
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.10_ReadingI.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 153.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [149
+
+
+]
+No file 15.11_ReadingI.tex.
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 156.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [150
+
+
+
+
+]
+Chapter 16.
+[151]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.1_ReadingII.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 157.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [152
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.2_ReadingII.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 158.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [153
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.3_ReadingII.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 159.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [154
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.4_ReadingII.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 160.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [155
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.5_ReadingII.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 161.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [156
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.6_ReadingII.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 162.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [157
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.7_ReadingII.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 163.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [158
+
+
+]
+Chapter 17.
+[159
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.1_ReadingIII.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 166.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [160
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.2_ReadingIII.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 167.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [161
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.3_ReadingIII.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 168.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [162
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.4_ReadingIII.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 169.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [163
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.5_ReadingIII.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 170.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [164
+
+
+]
+Chapter 18.
+[165
+
+
+]
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\18.1_Vocabulary.tex)
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 173.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [166
+
+]
+("C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\Student Manual 2.aux"
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\Acknowledgments.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\01_Introduction.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\02_MathStrategies.aux)
+
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.1_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.2_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.3_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.4_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.5_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.6_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.7_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.8_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\03.9_NumbersOperations
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\04_AlgebraStrategies.a
+ux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.1_AlgebraFunctionsI
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.2_AlgebraFunctionsI
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.3_AlgebraFunctionsI
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.4_AlgebraFunctionsI
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\05.5_AlgebraFunctionsI
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.1_AlgebraFunctionsI
+I.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.2_AlgebraFunctionsI
+I.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.3_AlgebraFunctionsI
+I.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.4_AlgebraFunctionsI
+I.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.5_AlgebraFunctionsI
+I.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\06.6_AlgebraFunctionsI
+I.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\07.1_GeometryMeasureme
+ntI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\07.2_GeometryMeasureme
+ntI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\07.3_GeometryMeasureme
+ntI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\07.4_GeometryMeasureme
+ntI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\08.1_GeometryMeasureme
+ntII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\08.2_GeometryMeasureme
+ntII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\08.3_GeometryMeasureme
+ntII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\08.4_GeometryMeasureme
+ntII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\09.1_GeometryMeasureme
+ntIII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\09.2_GeometryMeasureme
+ntIII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\10.1_Statistics.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\10.2_Statistics.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\10.3_Statistics.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\10.4_Statistics.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.1_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.2_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.3_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.4_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.5_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.6_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.7_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.8_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.9_WritingStrategies
+.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.10_WritingStrategie
+s.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.11_WritingStrategie
+s.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\11.12_WritingStrategie
+s.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.1_SentenceImproveme
+nts.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.2_SentenceImproveme
+nts.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.3_SentenceImproveme
+nts.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.4_SentenceImproveme
+nts.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\12.5_SentenceImproveme
+nts.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.1_ParagraphStrategi
+es.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.2_ParagraphStrategi
+es.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.3_ParagraphStrategi
+es.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.4_ParagraphStrategi
+es.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.5_ParagraphStrategi
+es.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\13.6_ParagraphStrategi
+es.aux) (C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.1_Essay.aux
+) (C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.2_Essay.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.3_Essay.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.4_Essay.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.5_Essay.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.6_Essay.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.7_Essay.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\14.8_Essay.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.1_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.2_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.3_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.4_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.5_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.6_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.7_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.8_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.9_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.10_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\15.11_ReadingI.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.1_ReadingII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.2_ReadingII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.3_ReadingII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.4_ReadingII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.5_ReadingII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.6_ReadingII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\16.7_ReadingII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.1_ReadingIII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.2_ReadingIII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.3_ReadingIII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.4_ReadingIII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\17.5_ReadingIII.aux)
+(C:\Users\rtorres.CAMPUS\Documents\GitHub\studentmanual2\18.1_Vocabulary.aux)) 
+) 
+Here is how much of TeX's memory you used:
+ 23534 strings out of 493706
+ 597719 string characters out of 3151809
+ 725662 words of memory out of 3000000
+ 25780 multiletter control sequences out of 15000+200000
+ 17347 words of font info for 64 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 55i,17n,78p,1479b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.p
+fb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmmi8.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
+<C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmsy8.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+<C:/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on "Student Manual 2.pdf" (166 pages, 392634 bytes).
+PDF statistics:
+ 590 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+
