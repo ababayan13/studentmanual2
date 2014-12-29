@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \contentsline {chapter}{\numberline {1}Introduction}{9}
 \contentsline {part}{I\hspace {1em}SAT Math}{17}
 \contentsline {chapter}{\numberline {2}General Strategies for SAT Math}{19}
@@ -130,3 +131,134 @@
 \contentsline {section}{\numberline {5}Practice}{218}
 \contentsline {chapter}{\numberline {18}Vocabulary}{219}
 \contentsline {section}{\numberline {1}Vocabulary Words}{220}
+=======
+\contentsline {chapter}{\numberline {1}Introduction}{7}
+\contentsline {part}{I\hspace {1em}SAT Math}{15}
+\contentsline {chapter}{\numberline {2}General Strategies for SAT Math}{17}
+\contentsline {chapter}{\numberline {3}Numbers and Operations}{19}
+\contentsline {section}{\numberline {1}Arithmetic Word Problems}{20}
+\contentsline {section}{\numberline {2}Rational Numbers}{22}
+\contentsline {section}{\numberline {3}Sequences and Series}{24}
+\contentsline {section}{\numberline {4}Elementary Number Theory}{26}
+\contentsline {section}{\numberline {5}Sets}{28}
+\contentsline {section}{\numberline {6}Counting Techniques}{30}
+\contentsline {section}{\numberline {7}SAT Worksheet: Basic Numbers and Operations Problems}{32}
+\contentsline {section}{\numberline {8}SAT Worksheet: Medium Numbers and Operations Problems}{33}
+\contentsline {section}{\numberline {9}SAT Worksheet: Advanced Numbers and Operations Problems}{34}
+\contentsline {chapter}{\numberline {4}Strategies for Algebra}{35}
+\contentsline {section}{\numberline {1}Substitution \& Simplification}{35}
+\contentsline {section}{\numberline {2}Solutions}{35}
+\contentsline {section}{\numberline {3}Properties of Exponents}{35}
+\contentsline {section}{\numberline {4}Systems of Equations and Inequalities}{35}
+\contentsline {section}{\numberline {5}Equations of Lines}{35}
+\contentsline {section}{\numberline {6}Absolute Value}{35}
+\contentsline {chapter}{\numberline {5}Algebra and Functions: Part I}{37}
+\contentsline {section}{\numberline {1}Substitution and Simplifying Algebraic Expressions}{38}
+\contentsline {section}{\numberline {2}Solutions of Linear Equations and Inequalities}{40}
+\contentsline {section}{\numberline {3}Properties of Exponents}{42}
+\contentsline {section}{\numberline {4}Systems of Equations and Inequalities}{44}
+\contentsline {section}{\numberline {5}Equations of Lines}{46}
+\contentsline {chapter}{\numberline {6}Algebra and Functions: Part II}{49}
+\contentsline {section}{\numberline {1}Absolute Value}{50}
+\contentsline {section}{\numberline {2}Direct and Inverse Variation}{52}
+\contentsline {section}{\numberline {3}Quadratic Equations}{54}
+\contentsline {section}{\numberline {4}Rational and Radical Equations}{56}
+\contentsline {section}{\numberline {5}Concepts of Algebraic Functions}{58}
+\contentsline {section}{\numberline {6}Newly Defined Symbols Based on Commonly Used Operations}{60}
+\contentsline {chapter}{\numberline {7}Geometry and Measurement: Part I}{63}
+\contentsline {section}{\numberline {1}Area and Perimeter of a Polygon}{64}
+\contentsline {section}{\numberline {2}Area and Circumference of a Circle}{66}
+\contentsline {section}{\numberline {3}Volumes}{68}
+\contentsline {section}{\numberline {4}Special Triangles}{70}
+\contentsline {chapter}{\numberline {8}Geometry and Measurement: Part II}{73}
+\contentsline {section}{\numberline {1}Linear Relationships}{74}
+\contentsline {section}{\numberline {2}Slope}{76}
+\contentsline {section}{\numberline {3}Similarity}{78}
+\contentsline {section}{\numberline {4}Transformations}{80}
+\contentsline {chapter}{\numberline {9}Geometry and Measurement: Part III}{83}
+\contentsline {section}{\numberline {1}Coordinate Geometry}{84}
+\contentsline {section}{\numberline {2}Geometric Visualization}{86}
+\contentsline {chapter}{\numberline {10}Data Analysis, Statistics, and Probability}{89}
+\contentsline {section}{\numberline {1}Data Interpretation with Tables}{90}
+\contentsline {section}{\numberline {2}Data Interpretation with Graphs}{92}
+\contentsline {section}{\numberline {3}Descriptive Statistics: Mean, Median, and Mode}{94}
+\contentsline {section}{\numberline {4}Probability}{96}
+\contentsline {part}{II\hspace {1em}SAT Verbal}{99}
+\contentsline {chapter}{\numberline {11}The Six Most Frequently Missed Errors on SAT Writing Multiple Choice: Strategies for Sentence Improvements and Sentence Errors}{101}
+\contentsline {section}{\numberline {1}SAT Worksheet: Warm-Up}{102}
+\contentsline {section}{\numberline {2}About the SAT Writing Section}{103}
+\contentsline {section}{\numberline {3}Types of Writing Multiple Choice Questions}{104}
+\contentsline {section}{\numberline {4}Mastering Sentence Improvement and Sentence Error Questions}{105}
+\contentsline {section}{\numberline {5}Verb Tense}{106}
+\contentsline {subsection}{\numberline {5.1}Subject-Verb Agreement}{106}
+\contentsline {section}{\numberline {6}SAT Worksheet: SAT Writing Multiple Choice Practice with Subject-Verb Agreement}{107}
+\contentsline {subsection}{\numberline {6.1}Using the Correct Verb Tense}{107}
+\contentsline {section}{\numberline {7}Pronouns}{108}
+\contentsline {subsection}{\numberline {7.1}Agreement with the Antecedent}{108}
+\contentsline {subsection}{\numberline {7.2}Unclear Pronouns}{108}
+\contentsline {subsection}{\numberline {7.3}Consistent Point of View}{108}
+\contentsline {section}{\numberline {8}Misplaced Modifiers}{109}
+\contentsline {subsection}{\numberline {8.1}SAT Worksheet: SAT Writing Multiple Choice Practice with Modifiers}{109}
+\contentsline {section}{\numberline {9}Parallelism}{110}
+\contentsline {section}{\numberline {10}Faulty Comparisons}{111}
+\contentsline {section}{\numberline {11}Word Choice}{112}
+\contentsline {section}{\numberline {12}Other Common Errors}{113}
+\contentsline {chapter}{\numberline {12}Sentence Improvements}{115}
+\contentsline {section}{\numberline {1}SAT Worksheet: Warm-Up}{116}
+\contentsline {section}{\numberline {2}Identify the Error or Errors in the Original Sentence}{117}
+\contentsline {section}{\numberline {3}Incorrect Answers}{118}
+\contentsline {section}{\numberline {4}Picking the Most Clear and Concise Sentence}{119}
+\contentsline {section}{\numberline {5}Sentence Improvements}{120}
+\contentsline {chapter}{\numberline {13}Four Strategies to Beat Paragraph Improvements}{121}
+\contentsline {section}{\numberline {1}SAT Worksheet: Warm-Up}{122}
+\contentsline {section}{\numberline {2}Skim the Passage}{123}
+\contentsline {section}{\numberline {3}Determine the Type of Question You're Being Asked}{124}
+\contentsline {section}{\numberline {4}Read the Lines Relevant to the Question}{125}
+\contentsline {section}{\numberline {5}Develop Your Own Answer Before Looking at the Answer Choices}{126}
+\contentsline {section}{\numberline {6}Practice}{127}
+\contentsline {chapter}{\numberline {14}Six Strategies for a Perfect Six Essay and Practice}{129}
+\contentsline {section}{\numberline {1}SAT Worksheet: Warm-Up}{130}
+\contentsline {section}{\numberline {2}Know the Right Structure}{131}
+\contentsline {section}{\numberline {3}Present a Clear Thesis}{132}
+\contentsline {subsection}{\numberline {3.1}SAT Worksheet: Practice Writing Thesis Statements}{132}
+\contentsline {section}{\numberline {4}Use 1 Specific Example in Each Body Paragraph}{133}
+\contentsline {subsection}{\numberline {4.1}SAT Worksheet: Practice Writing Specific Examples}{133}
+\contentsline {section}{\numberline {5}Write a Clear, Two-Part Conclusion}{134}
+\contentsline {subsection}{\numberline {5.1}SAT Worksheet: Practice Writing Conclusions}{134}
+\contentsline {section}{\numberline {6}Use Transitions Between Paragraphs}{135}
+\contentsline {section}{\numberline {7}Use Formal Language and Proper Grammar}{136}
+\contentsline {subsection}{\numberline {7.1}SAT Worksheet: Correct the following sentences so that they each use formal language and are free of grammatical mistakes}{136}
+\contentsline {section}{\numberline {8}SAT Essay Practice}{137}
+\contentsline {chapter}{\numberline {15}Strategy \#1 For Sentence Completions and Passage-Based Reading Questions: Building Vocabulary}{139}
+\contentsline {section}{\numberline {1}SAT Worksheet: Warm-Up}{140}
+\contentsline {section}{\numberline {2}SAT Vocabulary}{141}
+\contentsline {section}{\numberline {3}Words to Know}{142}
+\contentsline {section}{\numberline {4}Groups of Words}{143}
+\contentsline {section}{\numberline {5}Practice}{144}
+\contentsline {section}{\numberline {6}Prefixes, Suffixes, and Roots to Know}{145}
+\contentsline {section}{\numberline {7}Practice}{146}
+\contentsline {section}{\numberline {8}Connotations}{147}
+\contentsline {section}{\numberline {9}Practice}{148}
+\contentsline {subsection}{\numberline {9.1}SAT Worksheet: Practice with Unfamiliar Words}{148}
+\contentsline {section}{\numberline {10}Practice}{149}
+\contentsline {subsection}{\numberline {10.1}SAT Worksheet: Practice with Sentence Completion Questions}{149}
+\contentsline {subsection}{\numberline {10.2}SAT Worksheet: Vocabulary-in-Context Practice}{149}
+\contentsline {chapter}{\numberline {16}Strategy \#2 For Sentence Completions and Passage-Based Reading Questions: Determining Key Words}{151}
+\contentsline {section}{\numberline {1}SAT Worksheet: Warm-Up}{152}
+\contentsline {section}{\numberline {2}Determining Key Words In Sentence Completions}{153}
+\contentsline {subsection}{\numberline {2.1}SAT Worksheet: Practice with Key Words in Sentence Completions}{153}
+\contentsline {section}{\numberline {3}Determining Key Phrases in the Passage}{154}
+\contentsline {subsection}{\numberline {3.1}SAT Worksheet: Practice Identifying Main Ideas and Important Points}{154}
+\contentsline {section}{\numberline {4}Practice}{155}
+\contentsline {section}{\numberline {5}Determining Key Phrases in the Passage-Based Reading Questions}{156}
+\contentsline {section}{\numberline {6}Practice}{157}
+\contentsline {section}{\numberline {7}Why Incorrect Answer Choices are Incorrect}{158}
+\contentsline {chapter}{\numberline {17}Strategy \#3 For Sentence Completions and Passage-Based Reading Questions: Determining Important Relationships in the Text}{159}
+\contentsline {section}{\numberline {1}SAT Worksheet: Warm-Up}{160}
+\contentsline {section}{\numberline {2}Determining the Relationships Between Parts of the Passage}{161}
+\contentsline {section}{\numberline {3}Practice}{162}
+\contentsline {section}{\numberline {4}Paired Passages}{163}
+\contentsline {section}{\numberline {5}Practice}{164}
+\contentsline {chapter}{\numberline {18}Vocabulary}{165}
+\contentsline {section}{\numberline {1}Vocabulary Words}{166}
+>>>>>>> origin/master
