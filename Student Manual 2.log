@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.27)  29 DEC 2014 13:21
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.27)  29 DEC 2014 15:26
 entering extended mode
 **Student*Manual*2.tex
 ("C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\Student Manual 2.tex"
@@ -825,7 +825,7 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 \RaggedRightParindent=\skip124
 \JustifyingParindent=\skip125
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 12.
+Package hyperref Info: Option `colorlinks' set `true' on input line 13.
 
 ("C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\Student Manual 2.aux"
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\Acknowledgments.aux)
@@ -977,20 +977,20 @@ s.aux)
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\17.5_ReadingIII.aux)
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\18.1_Vocabulary.aux)
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\19_AnswerKey.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1044,10 +1044,10 @@ ABD: EveryShipout initializing macros (C:\MiKTeX\tex\context\base\supp-pdf.mkii
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.11} into 
 your preamble.
- on input line 51.
+ on input line 52.
 
 \AtBeginShipoutBox=\box69
-Package hyperref Info: Link coloring ON on input line 51.
+Package hyperref Info: Link coloring ON on input line 52.
 (C:\MiKTeX\tex\latex\hyperref\nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1056,29 +1056,29 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count173
 )
-LaTeX Info: Redefining \ref on input line 51.
-LaTeX Info: Redefining \pageref on input line 51.
-LaTeX Info: Redefining \nameref on input line 51.
+LaTeX Info: Redefining \ref on input line 52.
+LaTeX Info: Redefining \pageref on input line 52.
+LaTeX Info: Redefining \nameref on input line 52.
 
 ("C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\Student Manual 2.out")
 ("C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\Student Manual 2.out")
 \@outlinefile=\write4
-Package ragged2e Info: ABD: executing \RaggedRight on input line 51.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 52.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 51.
-LaTeX Font Info:    Try loading font information for U+msa on input line 53.
+LaTeX Info: Redefining \selectfont on input line 52.
+LaTeX Font Info:    Try loading font information for U+msa on input line 54.
  (C:\MiKTeX\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 53.
+LaTeX Font Info:    Try loading font information for U+msb on input line 54.
 (C:\MiKTeX\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <logo.jpg, id=538, 223.83624pt x 226.8475pt>
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 53.
+Package pdftex.def Info: logo.jpg used on input line 54.
 (pdftex.def)             Requested size: 223.8357pt x 226.84694pt.
  [1
 
@@ -1102,10 +1102,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 53.
+Package pdftex.def Info: logo.jpg used on input line 54.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 53.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
  [2
 
 ]
@@ -1134,7 +1134,7 @@ Package pdftex.def Info: logo.jpg used on input line 131.
 \tf@toc=\write5
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 56.
+Package pdftex.def Info: logo.jpg used on input line 57.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [7]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\01_Introduction.tex
@@ -1211,12 +1211,12 @@ Package pdftex.def Info: logo.jpg used on input line 115.
 [14])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 56.
+Package pdftex.def Info: logo.jpg used on input line 57.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [15]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 58.
+Package pdftex.def Info: logo.jpg used on input line 59.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [16
 
@@ -1230,7 +1230,7 @@ Chapter 2.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 62.
+Package pdftex.def Info: logo.jpg used on input line 63.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [20
 
@@ -1345,7 +1345,7 @@ Package pdftex.def Info: logo.jpg used on input line 100.
 ex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 69.
+Package pdftex.def Info: logo.jpg used on input line 70.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [34
 
@@ -1355,7 +1355,7 @@ Package pdftex.def Info: logo.jpg used on input line 69.
 ex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 70.
+Package pdftex.def Info: logo.jpg used on input line 71.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [35
 
@@ -1365,7 +1365,7 @@ Package pdftex.def Info: logo.jpg used on input line 70.
 ex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 71.
+Package pdftex.def Info: logo.jpg used on input line 72.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [36
 
@@ -1380,7 +1380,7 @@ Chapter 4.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 75.
+Package pdftex.def Info: logo.jpg used on input line 76.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [38
 
@@ -1464,7 +1464,7 @@ Package pdftex.def Info: logo.jpg used on input line 96.
  [49])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 82.
+Package pdftex.def Info: logo.jpg used on input line 83.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [50
 
@@ -1572,7 +1572,7 @@ Package pdftex.def Info: logo.jpg used on input line 89.
  [63])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 90.
+Package pdftex.def Info: logo.jpg used on input line 91.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [64
 
@@ -1646,7 +1646,7 @@ Package pdftex.def Info: logo.jpg used on input line 92.
  [73])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 96.
+Package pdftex.def Info: logo.jpg used on input line 97.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [74
 
@@ -1726,7 +1726,7 @@ Package pdftex.def Info: logo.jpg used on input line 107.
  [83])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 102.
+Package pdftex.def Info: logo.jpg used on input line 103.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [84
 
@@ -1765,7 +1765,7 @@ Package pdftex.def Info: logo.jpg used on input line 87.
  [89])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 106.
+Package pdftex.def Info: logo.jpg used on input line 107.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [90
 
@@ -1832,7 +1832,7 @@ Package pdftex.def Info: logo.jpg used on input line 87.
  [99])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 112.
+Package pdftex.def Info: logo.jpg used on input line 113.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [100
 
@@ -1864,27 +1864,27 @@ Package Fancyhdr Warning: \headheight is too small (14.49998pt):
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 115.
+Package pdftex.def Info: logo.jpg used on input line 116.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [104
 
 ]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.2_WritingStrategies.t
 ex)
-Overfull \hbox (27.35678pt too wide) in paragraph at lines 3--116
+Overfull \hbox (27.35678pt too wide) in paragraph at lines 3--117
 \OT1/cmr/m/n/12 mul-ti-ple choice sec-tions. There are two mul-ti-ple choice se
 c-tions, one with $[]$ 
  []
 
 
-Overfull \hbox (61.18681pt too wide) in paragraph at lines 3--116
+Overfull \hbox (61.18681pt too wide) in paragraph at lines 3--117
 \OT1/cmr/m/n/12 ques-tions to be com-pleted in $[]$ min-utes and one with $[]$ 
 
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 116.
+Package pdftex.def Info: logo.jpg used on input line 117.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [105
 
@@ -1894,7 +1894,7 @@ Package pdftex.def Info: logo.jpg used on input line 116.
 ex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 117.
+Package pdftex.def Info: logo.jpg used on input line 118.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [106
 
@@ -1916,7 +1916,7 @@ on down to two or three an-swer choices
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 118.
+Package pdftex.def Info: logo.jpg used on input line 119.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [107
 
@@ -1926,7 +1926,7 @@ Package pdftex.def Info: logo.jpg used on input line 118.
 ex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 119.
+Package pdftex.def Info: logo.jpg used on input line 120.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [108
 
@@ -1936,7 +1936,7 @@ Package pdftex.def Info: logo.jpg used on input line 119.
 ex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 120.
+Package pdftex.def Info: logo.jpg used on input line 121.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [109
 
@@ -1946,7 +1946,7 @@ Package pdftex.def Info: logo.jpg used on input line 120.
 ex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 121.
+Package pdftex.def Info: logo.jpg used on input line 122.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [110
 
@@ -1956,7 +1956,7 @@ Package pdftex.def Info: logo.jpg used on input line 121.
 ex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 122.
+Package pdftex.def Info: logo.jpg used on input line 123.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [111
 
@@ -1966,7 +1966,7 @@ Package pdftex.def Info: logo.jpg used on input line 122.
 ex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 123.
+Package pdftex.def Info: logo.jpg used on input line 124.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [112
 
@@ -1976,7 +1976,7 @@ Package pdftex.def Info: logo.jpg used on input line 123.
 tex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 124.
+Package pdftex.def Info: logo.jpg used on input line 125.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [113
 
@@ -1986,7 +1986,7 @@ Package pdftex.def Info: logo.jpg used on input line 124.
 tex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 125.
+Package pdftex.def Info: logo.jpg used on input line 126.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [114
 
@@ -1996,7 +1996,7 @@ Package pdftex.def Info: logo.jpg used on input line 125.
 tex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 126.
+Package pdftex.def Info: logo.jpg used on input line 127.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [115
 
@@ -2004,7 +2004,7 @@ Package pdftex.def Info: logo.jpg used on input line 126.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 128.
+Package pdftex.def Info: logo.jpg used on input line 129.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [116
 
@@ -2089,7 +2089,7 @@ Package pdftex.def Info: logo.jpg used on input line 49.
 ])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 129.
+Package pdftex.def Info: logo.jpg used on input line 130.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [119]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\12.2_SentenceImprovement
@@ -2109,7 +2109,7 @@ Package pdftex.def Info: logo.jpg used on input line 48.
 ])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 130.
+Package pdftex.def Info: logo.jpg used on input line 131.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [121]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\12.3_SentenceImprovement
@@ -2135,14 +2135,14 @@ Package pdftex.def Info: logo.jpg used on input line 147.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 131.
+Package pdftex.def Info: logo.jpg used on input line 132.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [125]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\12.4_SentenceImprovement
 s.tex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 132.
+Package pdftex.def Info: logo.jpg used on input line 133.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [126
 
@@ -2156,7 +2156,7 @@ Missing character: There is no ™ in font cmr12!
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 133.
+Package pdftex.def Info: logo.jpg used on input line 134.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [127
 
@@ -2164,7 +2164,7 @@ Package pdftex.def Info: logo.jpg used on input line 133.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 135.
+Package pdftex.def Info: logo.jpg used on input line 136.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [128
 
@@ -2176,7 +2176,7 @@ Chapter 13.
 .tex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 136.
+Package pdftex.def Info: logo.jpg used on input line 137.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [130
 
@@ -2197,7 +2197,7 @@ bout gram-mar and sen-tence relation-
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 137.
+Package pdftex.def Info: logo.jpg used on input line 138.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [131
 
@@ -2213,7 +2213,7 @@ Overfull \hbox (0.86414pt too wide) in paragraph at lines 11--13
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 138.
+Package pdftex.def Info: logo.jpg used on input line 139.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [132
 
@@ -2223,7 +2223,7 @@ Package pdftex.def Info: logo.jpg used on input line 138.
 .tex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 139.
+Package pdftex.def Info: logo.jpg used on input line 140.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [133
 
@@ -2231,14 +2231,14 @@ Package pdftex.def Info: logo.jpg used on input line 139.
 ]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\13.5_ParagraphStrategies
 .tex)
-Overfull \hbox (3.57526pt too wide) in paragraph at lines 3--140
+Overfull \hbox (3.57526pt too wide) in paragraph at lines 3--141
 \OT1/cmr/m/n/12 Making this a habit will not only pro-mote clear think-ing but 
 also in-su-late you from be-ing swayed 
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 140.
+Package pdftex.def Info: logo.jpg used on input line 141.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [134
 
@@ -2311,12 +2311,12 @@ Package pdftex.def Info: logo.jpg used on input line 92.
  [136])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 141.
+Package pdftex.def Info: logo.jpg used on input line 142.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [137]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 143.
+Package pdftex.def Info: logo.jpg used on input line 144.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [138
 
@@ -2327,7 +2327,7 @@ Chapter 14.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 144.
+Package pdftex.def Info: logo.jpg used on input line 145.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [140
 
@@ -2339,7 +2339,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 145.
+Package pdftex.def Info: logo.jpg used on input line 146.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [141
 
@@ -2386,7 +2386,7 @@ Overfull \hbox (224.97043pt too wide) in paragraph at lines 51--53
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 146.
+Package pdftex.def Info: logo.jpg used on input line 147.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [143]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.4_Essay.tex
@@ -2498,7 +2498,7 @@ Overfull \hbox (356.86629pt too wide) in paragraph at lines 74--76
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 147.
+Package pdftex.def Info: logo.jpg used on input line 148.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [145]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.5_Essay.tex
@@ -2510,7 +2510,7 @@ chil-dren to be com-
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 148.
+Package pdftex.def Info: logo.jpg used on input line 149.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [146
 
@@ -2520,7 +2520,7 @@ Package pdftex.def Info: logo.jpg used on input line 148.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 149.
+Package pdftex.def Info: logo.jpg used on input line 150.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [147
 
@@ -2538,7 +2538,7 @@ Package pdftex.def Info: logo.jpg used on input line 54.
 ])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 150.
+Package pdftex.def Info: logo.jpg used on input line 151.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [149]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.8_Essay.tex
@@ -2557,12 +2557,12 @@ Package pdftex.def Info: logo.jpg used on input line 10.
 ])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 151.
+Package pdftex.def Info: logo.jpg used on input line 152.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [151]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 153.
+Package pdftex.def Info: logo.jpg used on input line 154.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [152
 
@@ -2572,7 +2572,7 @@ Chapter 15.
 [153] (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.1_ReadingI.tex)
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 154.
+Package pdftex.def Info: logo.jpg used on input line 155.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [154
 
@@ -2581,7 +2581,7 @@ Package pdftex.def Info: logo.jpg used on input line 154.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 155.
+Package pdftex.def Info: logo.jpg used on input line 156.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [155
 
@@ -2591,7 +2591,7 @@ Package pdftex.def Info: logo.jpg used on input line 155.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 156.
+Package pdftex.def Info: logo.jpg used on input line 157.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [156
 
@@ -2601,7 +2601,7 @@ Package pdftex.def Info: logo.jpg used on input line 156.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 157.
+Package pdftex.def Info: logo.jpg used on input line 158.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [157
 
@@ -2628,14 +2628,14 @@ Package pdftex.def Info: logo.jpg used on input line 94.
  [159])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 158.
+Package pdftex.def Info: logo.jpg used on input line 159.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [160]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.6_ReadingI.tex)
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 159.
+Package pdftex.def Info: logo.jpg used on input line 160.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [161
 
@@ -2685,14 +2685,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 160.
+Package pdftex.def Info: logo.jpg used on input line 161.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [163]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.8_ReadingI.tex)
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 161.
+Package pdftex.def Info: logo.jpg used on input line 162.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [164
 
@@ -2710,7 +2710,7 @@ Package pdftex.def Info: logo.jpg used on input line 48.
 ])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 162.
+Package pdftex.def Info: logo.jpg used on input line 163.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [166]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.10_ReadingI.tex
@@ -2722,7 +2722,7 @@ each of the fol-low-ing words
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 163.
+Package pdftex.def Info: logo.jpg used on input line 164.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [167
 
@@ -2765,7 +2765,7 @@ Overfull \hbox (83.14539pt too wide) in paragraph at lines 22--23
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 164.
+Package pdftex.def Info: logo.jpg used on input line 165.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [168
 
@@ -2834,7 +2834,7 @@ Overfull \hbox (194.69801pt too wide) in paragraph at lines 137--139
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 165.
+Package pdftex.def Info: logo.jpg used on input line 166.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [172]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.13_ReadingI.tex
@@ -2972,7 +2972,7 @@ s. From https://www.gutenberg.org/files/24070/24070-
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 166.
+Package pdftex.def Info: logo.jpg used on input line 167.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [176]
 Chapter 16.
@@ -2982,7 +2982,7 @@ Chapter 16.
 ] (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.1_ReadingII.tex)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 169.
+Package pdftex.def Info: logo.jpg used on input line 170.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [178
 
@@ -2991,7 +2991,7 @@ Package pdftex.def Info: logo.jpg used on input line 169.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 170.
+Package pdftex.def Info: logo.jpg used on input line 171.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [179
 
@@ -3052,18 +3052,18 @@ s adapted
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 171.
+Package pdftex.def Info: logo.jpg used on input line 172.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [183]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.4_ReadingII.tex)
-Overfull \hbox (5.32764pt too wide) in paragraph at lines 25--172
+Overfull \hbox (5.32764pt too wide) in paragraph at lines 25--173
 \OT1/cmr/m/n/14.4 the five an-swer choices given in a mul-ti-ple choice prob-le
 m. This means that there 
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 172.
+Package pdftex.def Info: logo.jpg used on input line 173.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [184
 
@@ -3084,7 +3084,7 @@ ence for your
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 173.
+Package pdftex.def Info: logo.jpg used on input line 174.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [185
 
@@ -3121,7 +3121,7 @@ $[]$ \OT1/cmr/m/n/14.4 and $[]$ but it doesn't $[]$
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 174.
+Package pdftex.def Info: logo.jpg used on input line 175.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [186
 
@@ -3131,7 +3131,7 @@ Package pdftex.def Info: logo.jpg used on input line 174.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 175.
+Package pdftex.def Info: logo.jpg used on input line 176.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [187
 
@@ -3139,7 +3139,7 @@ Package pdftex.def Info: logo.jpg used on input line 175.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 177.
+Package pdftex.def Info: logo.jpg used on input line 178.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [188
 
@@ -3153,7 +3153,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 178.
+Package pdftex.def Info: logo.jpg used on input line 179.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [190
 
@@ -3163,14 +3163,14 @@ Overfull \vbox (84.56052pt too high) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 178.
+Package pdftex.def Info: logo.jpg used on input line 179.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [191]
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\17.2_ReadingIII.tex)
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 179.
+Package pdftex.def Info: logo.jpg used on input line 180.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [192
 
@@ -3180,7 +3180,7 @@ Package pdftex.def Info: logo.jpg used on input line 179.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 180.
+Package pdftex.def Info: logo.jpg used on input line 181.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [193
 
@@ -3190,7 +3190,7 @@ Package pdftex.def Info: logo.jpg used on input line 180.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 181.
+Package pdftex.def Info: logo.jpg used on input line 182.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [194
 
@@ -3200,7 +3200,7 @@ Package pdftex.def Info: logo.jpg used on input line 181.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 182.
+Package pdftex.def Info: logo.jpg used on input line 183.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [195
 
@@ -3208,7 +3208,7 @@ Package pdftex.def Info: logo.jpg used on input line 182.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 184.
+Package pdftex.def Info: logo.jpg used on input line 185.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [196
 
@@ -3220,7 +3220,7 @@ Chapter 18.
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 185.
+Package pdftex.def Info: logo.jpg used on input line 186.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [198
 
@@ -3238,8 +3238,8 @@ LaTeX Warning: Reference `2.4' on page 199 undefined on input line 10.
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
 
 ("C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\Student Manual 2.aux"
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\Acknowledgments.aux)
@@ -3391,20 +3391,20 @@ s.aux)
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\17.5_ReadingIII.aux)
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\18.1_Vocabulary.aux)
 (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\19_AnswerKey.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
 Package rerunfilecheck Info: File `Student*Manual*2.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 188.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
  ) 
 Here is how much of TeX's memory you used:
  28900 strings out of 493706
  669730 string characters out of 3151809
- 821066 words of memory out of 3000000
+ 821090 words of memory out of 3000000
  29610 multiletter control sequences out of 15000+200000
  18967 words of font info for 69 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -3420,7 +3420,7 @@ public/amsfonts/cm/cmss8.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmti12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/symbols/msa
 m10.pfb>
-Output written on "Student Manual 2.pdf" (199 pages, 775595 bytes).
+Output written on "Student Manual 2.pdf" (199 pages, 776071 bytes).
 PDF statistics:
  3012 PDF objects out of 3580 (max. 8388607)
  1469 named destinations out of 1728 (max. 500000)
