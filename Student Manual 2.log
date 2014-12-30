@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.27)  29 DEC 2014 15:49
-=======
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.16)  29 DEC 2014 15:37
-=======
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.27)  29 DEC 2014 15:26
->>>>>>> origin/master
->>>>>>> origin/master
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.16)  29 DEC 2014 15:59
 entering extended mode
 **C:/Users/Lauren/Desktop/SAT*Advanced*Binder*2/studentmanual2/Student*Manual*2
 .tex
@@ -930,7 +922,6 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 13.
 
-<<<<<<< HEAD
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\Student Manual 2
 .aux"
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\Acknowledgments.
@@ -1118,171 +1109,6 @@ aux")
 aux")
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\19_AnswerKey.aux
 "))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-=======
-("C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\Student Manual 2.aux"
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\Acknowledgments.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\01_Introduction.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\02_MathStrategies.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.1_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.2_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.3_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.4_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.5_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.6_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.7_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.8_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.9_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\04_AlgebraStrategies.aux
-)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\05.1_AlgebraFunctionsI.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\05.2_AlgebraFunctionsI.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\05.3_AlgebraFunctionsI.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\05.4_AlgebraFunctionsI.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\05.5_AlgebraFunctionsI.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\06.1_AlgebraFunctionsII.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\06.2_AlgebraFunctionsII.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\06.3_AlgebraFunctionsII.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\06.4_AlgebraFunctionsII.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\06.5_AlgebraFunctionsII.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\06.6_AlgebraFunctionsII.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\07.1_GeometryMeasurement
-I.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\07.2_GeometryMeasurement
-I.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\07.3_GeometryMeasurement
-I.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\07.4_GeometryMeasurement
-I.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\08.1_GeometryMeasurement
-II.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\08.2_GeometryMeasurement
-II.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\08.3_GeometryMeasurement
-II.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\08.4_GeometryMeasurement
-II.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\09.1_GeometryMeasurement
-III.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\09.2_GeometryMeasurement
-III.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\10.1_Statistics.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\10.2_Statistics.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\10.3_Statistics.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\10.4_Statistics.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.1_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.2_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.3_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.4_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.5_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.6_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.7_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.8_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.9_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.10_WritingStrategies.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.11_WritingStrategies.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.12_WritingStrategies.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\12.1_SentenceImprovement
-s.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\12.2_SentenceImprovement
-s.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\12.3_SentenceImprovement
-s.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\12.4_SentenceImprovement
-s.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\12.5_SentenceImprovement
-s.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\13.1_ParagraphStrategies
-.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\13.2_ParagraphStrategies
-.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\13.3_ParagraphStrategies
-.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\13.4_ParagraphStrategies
-.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\13.5_ParagraphStrategies
-.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\13.6_ParagraphStrategies
-.aux) (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.1_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.2_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.3_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.4_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.5_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.6_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.7_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.8_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.1_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.2_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.3_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.4_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.5_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.6_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.7_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.8_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.9_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.10_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.11_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.12_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.13_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.1_ReadingII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.2_ReadingII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.3_ReadingII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.4_ReadingII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.5_ReadingII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.6_ReadingII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.7_ReadingII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\17.1_ReadingIII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\17.2_ReadingIII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\17.3_ReadingIII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\17.4_ReadingIII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\17.5_ReadingIII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\18.1_Vocabulary.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\19_AnswerKey.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
@@ -1297,7 +1123,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
->>>>>>> origin/master
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1355,13 +1180,8 @@ your preamble.
  on input line 52.
 
 \AtBeginShipoutBox=\box69
-<<<<<<< HEAD
-Package hyperref Info: Link coloring ON on input line 51.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
-=======
 Package hyperref Info: Link coloring ON on input line 52.
-(C:\MiKTeX\tex\latex\hyperref\nameref.sty
->>>>>>> origin/master
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
@@ -1378,30 +1198,17 @@ LaTeX Info: Redefining \nameref on input line 52.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\Student Manual 2
 .out")
 \@outlinefile=\write4
-<<<<<<< HEAD
-Package ragged2e Info: ABD: executing \RaggedRight on input line 51.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 52.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 51.
-LaTeX Font Info:    Try loading font information for U+msa on input line 53.
+LaTeX Info: Redefining \selectfont on input line 52.
+LaTeX Font Info:    Try loading font information for U+msa on input line 54.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 53.
+LaTeX Font Info:    Try loading font information for U+msb on input line 54.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-=======
-Package ragged2e Info: ABD: executing \RaggedRight on input line 52.
-
-ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 52.
-LaTeX Font Info:    Try loading font information for U+msa on input line 54.
- (C:\MiKTeX\tex\latex\amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 54.
-(C:\MiKTeX\tex\latex\amsfonts\umsb.fd
->>>>>>> origin/master
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <logo.jpg, id=538, 223.83624pt x 226.8475pt>
@@ -2199,15 +2006,9 @@ Package pdftex.def Info: logo.jpg used on input line 116.
  [104
 
 ]
-<<<<<<< HEAD
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\11.2_WritingStra
 tegies.tex")
-Overfull \hbox (27.35678pt too wide) in paragraph at lines 3--116
-=======
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.2_WritingStrategies.t
-ex)
 Overfull \hbox (27.35678pt too wide) in paragraph at lines 3--117
->>>>>>> origin/master
 \OT1/cmr/m/n/12 mul-ti-ple choice sec-tions. There are two mul-ti-ple choice se
 c-tions, one with $[]$ 
  []
@@ -2468,15 +2269,10 @@ File: logo.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo.jpg used on input line 147.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
-<<<<<<< HEAD
 [124])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 131.
-=======
-<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 132.
->>>>>>> origin/master
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [125]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\12.4_SentenceImp
@@ -2570,15 +2366,9 @@ Package pdftex.def Info: logo.jpg used on input line 140.
 
 
 ]
-<<<<<<< HEAD
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\13.5_ParagraphSt
 rategies.tex")
-Overfull \hbox (3.57526pt too wide) in paragraph at lines 3--140
-=======
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\13.5_ParagraphStrategies
-.tex)
 Overfull \hbox (3.57526pt too wide) in paragraph at lines 3--141
->>>>>>> origin/master
 \OT1/cmr/m/n/12 Making this a habit will not only pro-mote clear think-ing but 
 also in-su-late you from be-ing swayed 
  []
@@ -2918,13 +2708,8 @@ Chapter 15.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\15.1_ReadingI.te
 x")
 File: logo.jpg Graphic file (type jpg)
-<<<<<<< HEAD
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 154.
-=======
-<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 155.
->>>>>>> origin/master
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [154
 
@@ -2932,14 +2717,8 @@ Package pdftex.def Info: logo.jpg used on input line 155.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\15.2_ReadingI.te
 x")
 File: logo.jpg Graphic file (type jpg)
-<<<<<<< HEAD
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 155.
-=======
-
-<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 156.
->>>>>>> origin/master
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [155
 
@@ -2948,14 +2727,8 @@ Package pdftex.def Info: logo.jpg used on input line 156.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\15.3_ReadingI.te
 x")
 File: logo.jpg Graphic file (type jpg)
-<<<<<<< HEAD
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 156.
-=======
-
-<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 157.
->>>>>>> origin/master
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [156
 
@@ -2964,14 +2737,8 @@ Package pdftex.def Info: logo.jpg used on input line 157.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\15.4_ReadingI.te
 x")
 File: logo.jpg Graphic file (type jpg)
-<<<<<<< HEAD
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 157.
-=======
-
-<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 158.
->>>>>>> origin/master
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [157
 
@@ -3005,14 +2772,8 @@ Package pdftex.def Info: logo.jpg used on input line 159.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\15.6_ReadingI.te
 x")
 File: logo.jpg Graphic file (type jpg)
-<<<<<<< HEAD
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 159.
-=======
-
-<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 160.
->>>>>>> origin/master
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [161
 
@@ -3069,14 +2830,8 @@ Package pdftex.def Info: logo.jpg used on input line 161.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\15.8_ReadingI.te
 x")
 File: logo.jpg Graphic file (type jpg)
-<<<<<<< HEAD
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 161.
-=======
-
-<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 162.
->>>>>>> origin/master
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [164
 
@@ -3380,14 +3135,8 @@ Package pdftex.def Info: logo.jpg used on input line 170.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\16.2_ReadingII.t
 ex")
 File: logo.jpg Graphic file (type jpg)
-<<<<<<< HEAD
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 170.
-=======
-
-<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 171.
->>>>>>> origin/master
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [179
 
@@ -3452,14 +3201,9 @@ File: logo.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo.jpg used on input line 172.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [183]
-<<<<<<< HEAD
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\16.4_ReadingII.t
 ex")
-Overfull \hbox (5.32764pt too wide) in paragraph at lines 25--172
-=======
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.4_ReadingII.tex)
 Overfull \hbox (5.32764pt too wide) in paragraph at lines 25--173
->>>>>>> origin/master
 \OT1/cmr/m/n/14.4 the five an-swer choices given in a mul-ti-ple choice prob-le
 m. This means that there 
  []
@@ -3535,14 +3279,8 @@ Package pdftex.def Info: logo.jpg used on input line 175.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\16.7_ReadingII.t
 ex")
 File: logo.jpg Graphic file (type jpg)
-<<<<<<< HEAD
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 175.
-=======
-
-<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 176.
->>>>>>> origin/master
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [187
 
@@ -3581,14 +3319,8 @@ Package pdftex.def Info: logo.jpg used on input line 179.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\17.2_ReadingIII.
 tex")
 File: logo.jpg Graphic file (type jpg)
-<<<<<<< HEAD
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 179.
-=======
-
-<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 180.
->>>>>>> origin/master
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [192
 
@@ -3597,14 +3329,8 @@ Package pdftex.def Info: logo.jpg used on input line 180.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\17.3_ReadingIII.
 tex")
 File: logo.jpg Graphic file (type jpg)
-<<<<<<< HEAD
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 180.
-=======
-
-<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 181.
->>>>>>> origin/master
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [193
 
@@ -3613,14 +3339,8 @@ Package pdftex.def Info: logo.jpg used on input line 181.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\17.4_ReadingIII.
 tex")
 File: logo.jpg Graphic file (type jpg)
-<<<<<<< HEAD
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 181.
-=======
-
-<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 182.
->>>>>>> origin/master
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [194
 
@@ -3629,14 +3349,8 @@ Package pdftex.def Info: logo.jpg used on input line 182.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\17.5_ReadingIII.
 tex")
 File: logo.jpg Graphic file (type jpg)
-<<<<<<< HEAD
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 182.
-=======
-
-<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 183.
->>>>>>> origin/master
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [195
 
@@ -3655,14 +3369,8 @@ Chapter 18.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\18.1_Vocabulary.
 tex")
 File: logo.jpg Graphic file (type jpg)
-<<<<<<< HEAD
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 185.
-=======
-
-<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 186.
->>>>>>> origin/master
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [198
 
@@ -3684,7 +3392,6 @@ LaTeX Warning: Reference `2.4' on page 199 undefined on input line 10.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
 
-<<<<<<< HEAD
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\Student Manual 2
 .aux"
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\Acknowledgments.
@@ -3872,162 +3579,8 @@ aux")
 aux")
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\19_AnswerKey.aux
 "))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
-=======
-("C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\Student Manual 2.aux"
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\Acknowledgments.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\01_Introduction.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\02_MathStrategies.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.1_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.2_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.3_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.4_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.5_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.6_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.7_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.8_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\03.9_NumbersOperations.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\04_AlgebraStrategies.aux
-)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\05.1_AlgebraFunctionsI.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\05.2_AlgebraFunctionsI.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\05.3_AlgebraFunctionsI.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\05.4_AlgebraFunctionsI.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\05.5_AlgebraFunctionsI.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\06.1_AlgebraFunctionsII.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\06.2_AlgebraFunctionsII.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\06.3_AlgebraFunctionsII.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\06.4_AlgebraFunctionsII.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\06.5_AlgebraFunctionsII.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\06.6_AlgebraFunctionsII.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\07.1_GeometryMeasurement
-I.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\07.2_GeometryMeasurement
-I.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\07.3_GeometryMeasurement
-I.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\07.4_GeometryMeasurement
-I.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\08.1_GeometryMeasurement
-II.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\08.2_GeometryMeasurement
-II.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\08.3_GeometryMeasurement
-II.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\08.4_GeometryMeasurement
-II.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\09.1_GeometryMeasurement
-III.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\09.2_GeometryMeasurement
-III.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\10.1_Statistics.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\10.2_Statistics.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\10.3_Statistics.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\10.4_Statistics.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.1_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.2_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.3_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.4_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.5_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.6_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.7_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.8_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.9_WritingStrategies.a
-ux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.10_WritingStrategies.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.11_WritingStrategies.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\11.12_WritingStrategies.
-aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\12.1_SentenceImprovement
-s.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\12.2_SentenceImprovement
-s.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\12.3_SentenceImprovement
-s.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\12.4_SentenceImprovement
-s.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\12.5_SentenceImprovement
-s.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\13.1_ParagraphStrategies
-.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\13.2_ParagraphStrategies
-.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\13.3_ParagraphStrategies
-.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\13.4_ParagraphStrategies
-.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\13.5_ParagraphStrategies
-.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\13.6_ParagraphStrategies
-.aux) (C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.1_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.2_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.3_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.4_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.5_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.6_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.7_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\14.8_Essay.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.1_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.2_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.3_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.4_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.5_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.6_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.7_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.8_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.9_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.10_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.11_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.12_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\15.13_ReadingI.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.1_ReadingII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.2_ReadingII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.3_ReadingII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.4_ReadingII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.5_ReadingII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.6_ReadingII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\16.7_ReadingII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\17.1_ReadingIII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\17.2_ReadingIII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\17.3_ReadingIII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\17.4_ReadingIII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\17.5_ReadingIII.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\18.1_Vocabulary.aux)
-(C:\Users\rtorres.CAMPUS\Dropbox\Public\studentmanual2\19_AnswerKey.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
->>>>>>> origin/master
 Package rerunfilecheck Info: File `Student*Manual*2.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 
@@ -4037,10 +3590,9 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
  28901 strings out of 493921
  682713 string characters out of 3144873
- 817077 words of memory out of 3000000
+ 817101 words of memory out of 3000000
  29584 multiletter control sequences out of 15000+200000
  18967 words of font info for 69 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -4060,32 +3612,7 @@ les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "Student Manual 2.pdf" (199 pages, 774804 bytes).
-=======
- 28900 strings out of 493706
- 669730 string characters out of 3151809
- 821090 words of memory out of 3000000
- 29610 multiletter control sequences out of 15000+200000
- 18967 words of font info for 69 fonts, out of 3000000 for 9000
- 1025 hyphenation exceptions out of 8191
- 55i,17n,78p,1823b,777s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmbx12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti1
-0.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmmi12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
-8.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.p
-fb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmss8.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmti12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/symbols/msa
-m10.pfb>
-<<<<<<< HEAD
-Output written on "Student Manual 2.pdf" (199 pages, 776144 bytes).
-=======
-Output written on "Student Manual 2.pdf" (199 pages, 776071 bytes).
->>>>>>> origin/master
->>>>>>> origin/master
+Output written on "Student Manual 2.pdf" (199 pages, 775353 bytes).
 PDF statistics:
  3012 PDF objects out of 3580 (max. 8388607)
  1469 named destinations out of 1728 (max. 500000)
