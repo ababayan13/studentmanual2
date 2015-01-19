@@ -7,7 +7,7 @@
 \renewcommand{\thesection}{\arabic{section}}
 \hypersetup{colorlinks, citecolor=black, filecolor=black, linkcolor=black}
 
-\pagestyle{fancy}
+\pagestyle{fancyplain}
 
 \setlength{\cftsecnumwidth}{2em}
 \setlength{\cftsubsecnumwidth}{2.5em}
@@ -34,27 +34,44 @@
 \author{\includegraphics{logo}\\\textbf{\large ASC English}}
 \date{}
 
-%\pgfplotsset{ every non boxed x axis/.append style={x axis line style=latex-latex}, every non boxed y axis/.append style={y axis line style=latex-latex},
-%axis x line=center, axis y line=center, xmin=-5, xmax=5, ymin=-5, ymax=5, axis line style = ultra thick, ticks=none}
-
 \newcommand{\midline}{\centerline{\rule{0.4\textwidth}{1pt}}}
 
 \fancyhf{}
 \lfoot{\raisebox{-.25\height}{\includegraphics[scale=0.1]{logo}}{ \fontfamily{cmss}\selectfont{\raisebox{0.25\height}{\small\copyright}\ Academic Student Center}}}
-\fancyhead[LE]{\fontfamily{cmss}\selectfont{Chapter \thechapter. \leftmark}}
-\fancyhead[RO]{\fontfamily{cmss}\selectfont{\thechapter.\rightmark}}
+
+\renewcommand{\chaptermark}[1]{
+\ifnum\value{chapter}>0
+	\markboth{\bfseries\fontfamily{cmss}\selectfont{Chapter \thechapter{}: #1}}{}
+\else
+	\markboth{\bfseries#1}{}
+\fi}
+
+\renewcommand\sectionmark[1]{\markright{\bfseries\fontfamily{cmss}\selectfont{\thesection.\ #1}}}
+
+\lhead[\fancyplain{}{\thepage}]
+    {\fancyplain{}{\rightmark}}
+\rhead[\fancyplain{}{\leftmark}]
+    {\fancyplain{}{\bfseries\thepage}}
+
+
+%s\fancyhead[LE]{\fontfamily{cmss}\selectfont{\leftmark}}
+%\fancyhead[RO]{\fontfamily{cmss}\selectfont{\thechapter.\rightmark}}
+
 %\rhead{\rightmark}
 \rfoot{\fontfamily{cmss}\selectfont{\thepage}}
 \renewcommand\headrulewidth{2pt}
-\renewcommand\chaptermark[1]{\markboth{#1}{}}
-\renewcommand\sectionmark[1]{\markright{\thesection.\ #1}}
+%\renewcommand\chaptermark[1]{\markboth{#1}{}}
+%\renewcommand\sectionmark[1]{\markright{\thesection.\ #1}}
 \setlength{\columnseprule}{1pt}
 
 \begin{document}
+\frontmatter
 \maketitle
 \include{Acknowledgments}
 
 \tableofcontents
+\mainmatter
+
 \include{01_Introduction}
 
 \part{SAT Math}
