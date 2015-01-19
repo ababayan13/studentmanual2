@@ -1,18 +1,13 @@
 \documentclass[12pt]{book}
 \usepackage[margin=0.8in]{geometry}
 \parindent=0mm
-\usepackage{tabularx,setspace, amssymb, amsmath, outlines, multicol, paralist, tikz, pgfplots, graphicx,enumitem, multienum, fixltx2e, fancyhdr, soul, lineno, hyperref, tocloft}%xr}
+\usepackage{tabularx,setspace, amssymb, amsmath, outlines, multicol, paralist, tikz, pgfplots, graphicx,enumitem, multienum, fixltx2e, fancyhdr, soul, lineno, hyperref, tocloft, titlesec, xcolor, colortbl, array, pgf-pie}%xr}
 \usepackage[document]{ragged2e}
-\pdfcatalog{/PageLayout /SinglePage}
+%\pdfcatalog{/PageLayout /SinglePage}
 \renewcommand{\thesection}{\arabic{section}}
-\hypersetup{
-    colorlinks,
-    citecolor=black,
-    filecolor=black,
-    linkcolor=black
-}
+\hypersetup{colorlinks, citecolor=black, filecolor=black, linkcolor=black}
 
-%\externaldocument{Solution_Manual}
+\pagestyle{fancy}
 
 \setlength{\cftsecnumwidth}{2em}
 \setlength{\cftsubsecnumwidth}{2.5em}
@@ -23,9 +18,8 @@
 \newcommand{\longline}{\underline{\hspace{2in}} }
 \newcommand{\shortline}{\underline{\hspace{1in}}}
 \renewcommand{\baselinestretch}{1.15}
-\newcommand{\medium}{\textbf{Medium} }
-\newcommand{\basic}{\textbf{Basic} }
-\newcommand{\advanced}{\textbf{Advanced} }
+\newcommand{\medium}{\centerline{\fontfamily{cmss}\selectfont{\textbf{\large MEDIUM}}}}
+\newcommand{\advanced}{\centerline{\fontfamily{cmss}\selectfont{\textbf{\large ADVANCED}}}}
 \newcommand{\plane}{\begin{tikzpicture}[scale=0.6]
 \draw[step=0.5] (0,0) grid (10,10);
 \draw[ultra thick] (0,5) -- (10,5);
@@ -36,18 +30,25 @@
 
 \tikzset{ every path/.append style={line width=1 pt}}
 
-\lfoot{\raisebox{-.25\height}{\includegraphics[scale=0.1]{logo}}{ \raisebox{0.25\height}{\small\copyright}\ Academic Student Center}}
-
 \title{\textbf{\huge SAT Student Manual 2}}
 \author{\includegraphics{logo}\\\textbf{\large ASC English}}
 \date{}
 
-\pgfplotsset{ every non boxed x axis/.append style={x axis line style=latex-latex}, every non boxed y axis/.append style={y axis line style=latex-latex},
-axis x line=center, axis y line=center,
-xmin=-5, xmax=5, ymin=-5, ymax=5,
-axis line style = ultra thick, ticks=none}
+%\pgfplotsset{ every non boxed x axis/.append style={x axis line style=latex-latex}, every non boxed y axis/.append style={y axis line style=latex-latex},
+%axis x line=center, axis y line=center, xmin=-5, xmax=5, ymin=-5, ymax=5, axis line style = ultra thick, ticks=none}
 
 \newcommand{\midline}{\centerline{\rule{0.4\textwidth}{1pt}}}
+
+\fancyhf{}
+\lfoot{\raisebox{-.25\height}{\includegraphics[scale=0.1]{logo}}{ \fontfamily{cmss}\selectfont{\raisebox{0.25\height}{\small\copyright}\ Academic Student Center}}}
+\fancyhead[LE]{\fontfamily{cmss}\selectfont{Chapter \thechapter. \leftmark}}
+\fancyhead[RO]{\fontfamily{cmss}\selectfont{\thechapter.\rightmark}}
+%\rhead{\rightmark}
+\rfoot{\fontfamily{cmss}\selectfont{\thepage}}
+\renewcommand\headrulewidth{2pt}
+\renewcommand\chaptermark[1]{\markboth{#1}{}}
+\renewcommand\sectionmark[1]{\markright{\thesection.\ #1}}
+\setlength{\columnseprule}{1pt}
 
 \begin{document}
 \maketitle
@@ -67,9 +68,6 @@ axis line style = ultra thick, ticks=none}
 	\include{03.4_NumbersOperations}
 	\include{03.5_NumbersOperations}
 	\include{03.6_NumbersOperations}
-	\include{03.7_NumbersOperations}
-	\include{03.8_NumbersOperations}
-	\include{03.9_NumbersOperations}
 
 \chapter{Algebra and Functions: Part I}
 	\include{04.1_AlgebraFunctionsI}

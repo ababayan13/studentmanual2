@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.16)  15 JAN 2015 12:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.16)  18 JAN 2015 20:03
 entering extended mode
 **C:/Users/Lauren/Desktop/SAT*Advanced*Binder*2/studentmanual2/Student*Manual*2
 .tex
@@ -881,6 +881,33 @@ Package tocloft Info: The document has chapter divisions on input line 44.
 \cfttabindent=\skip110
 \cfttabnumwidth=\skip111
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box68
+\beforetitleunit=\skip112
+\aftertitleunit=\skip113
+\ttl@plus=\dimen211
+\ttl@minus=\dimen212
+\ttl@toksa=\toks48
+\titlewidth=\dimen213
+\titlewidthlast=\dimen214
+\titlewidthfirst=\dimen215
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+\everycr=\toks49
+\minrowclearance=\skip114
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf-pie\pgf-pie.sty"
+Package: pgf-pie 2011/10/02 v0.2 Some LaTeX macros for pie chart by using PGF/T
+ikz package.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\carlisle\scalefnt.sty")
+\pgfpie@angleEnd=\skip115
+\c@pgfpie@explodeLength=\count166
+\c@pgfpie@colorLength=\count167
+\c@pgfpie@sliceLength=\count168
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
@@ -893,9 +920,9 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\footmisc\footmisc.sty"
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks48
-\footnotemargin=\dimen211
-\c@pp@next@reset=\count166
+\FN@temptoken=\toks50
+\footnotemargin=\dimen216
+\c@pp@next@reset=\count169
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
@@ -905,22 +932,22 @@ Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
 )
-\CenteringLeftskip=\skip112
-\RaggedLeftLeftskip=\skip113
-\RaggedRightLeftskip=\skip114
-\CenteringRightskip=\skip115
-\RaggedLeftRightskip=\skip116
-\RaggedRightRightskip=\skip117
-\CenteringParfillskip=\skip118
-\RaggedLeftParfillskip=\skip119
-\RaggedRightParfillskip=\skip120
-\JustifyingParfillskip=\skip121
-\CenteringParindent=\skip122
-\RaggedLeftParindent=\skip123
-\RaggedRightParindent=\skip124
-\JustifyingParindent=\skip125
+\CenteringLeftskip=\skip116
+\RaggedLeftLeftskip=\skip117
+\RaggedRightLeftskip=\skip118
+\CenteringRightskip=\skip119
+\RaggedLeftRightskip=\skip120
+\RaggedRightRightskip=\skip121
+\CenteringParfillskip=\skip122
+\RaggedLeftParfillskip=\skip123
+\RaggedRightParfillskip=\skip124
+\JustifyingParfillskip=\skip125
+\CenteringParindent=\skip126
+\RaggedLeftParindent=\skip127
+\RaggedRightParindent=\skip128
+\JustifyingParindent=\skip129
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 13.
+Package hyperref Info: Option `colorlinks' set `true' on input line 8.
 
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\Student Manual 2
 .aux"
@@ -941,12 +968,6 @@ ations.aux")
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.5_NumbersOper
 ations.aux")
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.6_NumbersOper
-ations.aux")
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.7_NumbersOper
-ations.aux")
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.8_NumbersOper
-ations.aux")
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.9_NumbersOper
 ations.aux")
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\04.1_AlgebraFunc
 tionsI.aux")
@@ -1107,20 +1128,20 @@ aux")
 aux")
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\18_AnswerKey.aux
 "))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1159,60 +1180,60 @@ LaTeX Font Info:    ... okay on input line 52.
 ABD: EveryShipout initializing macros
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count167
-\scratchdimen=\dimen212
-\scratchbox=\box68
-\nofMPsegments=\count168
-\nofMParguments=\count169
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count170
-\MPscratchDim=\dimen213
-\MPnumerator=\count171
-\makeMPintoPDFobject=\count172
-\everyMPtoPDFconversion=\toks50
+\scratchcounter=\count170
+\scratchdimen=\dimen217
+\scratchbox=\box69
+\nofMPsegments=\count171
+\nofMParguments=\count172
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count173
+\MPscratchDim=\dimen218
+\MPnumerator=\count174
+\makeMPintoPDFobject=\count175
+\everyMPtoPDFconversion=\toks52
 )
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.11} into 
 your preamble.
- on input line 52.
+ on input line 53.
 
-\AtBeginShipoutBox=\box69
-Package hyperref Info: Link coloring ON on input line 52.
+\AtBeginShipoutBox=\box70
+Package hyperref Info: Link coloring ON on input line 53.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count173
+\c@section@level=\count176
 )
-LaTeX Info: Redefining \ref on input line 52.
-LaTeX Info: Redefining \pageref on input line 52.
-LaTeX Info: Redefining \nameref on input line 52.
+LaTeX Info: Redefining \ref on input line 53.
+LaTeX Info: Redefining \pageref on input line 53.
+LaTeX Info: Redefining \nameref on input line 53.
 
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\Student Manual 2
 .out")
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\Student Manual 2
 .out")
 \@outlinefile=\write4
-Package ragged2e Info: ABD: executing \RaggedRight on input line 52.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 53.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 52.
-LaTeX Font Info:    Try loading font information for U+msa on input line 54.
+LaTeX Info: Redefining \selectfont on input line 53.
+LaTeX Font Info:    Try loading font information for U+msa on input line 55.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 54.
+LaTeX Font Info:    Try loading font information for U+msb on input line 55.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<logo.jpg, id=510, 223.83624pt x 226.8475pt>
+<logo.jpg, id=498, 223.83624pt x 226.8475pt>
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 54.
+Package pdftex.def Info: logo.jpg used on input line 55.
 (pdftex.def)             Requested size: 223.8357pt x 226.84694pt.
  [1
 
@@ -1236,11 +1257,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 54.
+Package pdftex.def Info: logo.jpg used on input line 55.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
- [2
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 55.
+
+LaTeX Font Info:    No file OMScmss.fd. on input line 55.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead on input line 55.
+
+[2
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\Student Manual 2
@@ -1254,13 +1281,13 @@ Package pdftex.def Info: logo.jpg used on input line 62.
  [4]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 98.
+Package pdftex.def Info: logo.jpg used on input line 97.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [5])
 \tf@toc=\write5
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 57.
+Package pdftex.def Info: logo.jpg used on input line 58.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [6]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\01_Introduction.
@@ -1332,12 +1359,12 @@ Package pdftex.def Info: logo.jpg used on input line 115.
 [12])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 57.
+Package pdftex.def Info: logo.jpg used on input line 58.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [13]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 59.
+Package pdftex.def Info: logo.jpg used on input line 60.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [14
 
@@ -1352,7 +1379,7 @@ Chapter 2.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 63.
+Package pdftex.def Info: logo.jpg used on input line 64.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [18
 
@@ -1363,7 +1390,7 @@ Chapter 3.
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.1_NumbersOper
 ations.tex"
 
-LaTeX Warning: Reference `1.1.ex1' on page 20 undefined on input line 7.
+LaTeX Warning: Reference `1.1.ex1' on page 20 undefined on input line 8.
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
@@ -1374,7 +1401,7 @@ Package pdftex.def Info: logo.jpg used on input line 16.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 94.
+Package pdftex.def Info: logo.jpg used on input line 88.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [21])
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.2_NumbersOper
@@ -1389,18 +1416,13 @@ Package pdftex.def Info: logo.jpg used on input line 16.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 92.
+Package pdftex.def Info: logo.jpg used on input line 88.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [23])
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.3_NumbersOper
 ations.tex"
-Overfull \hbox (1.42111pt too wide) in paragraph at lines 22--23
-\OT1/cmr/m/n/12 that costs $450. If she has $100 saved up al-ready, how many da
-ys will it take her to have enough 
- []
-
 File: logo.jpg Graphic file (type jpg)
-<use logo.jpg>
+ <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 28.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [24
@@ -1409,15 +1431,15 @@ Package pdftex.def Info: logo.jpg used on input line 28.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 104.
+Package pdftex.def Info: logo.jpg used on input line 100.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [25])
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.4_NumbersOper
 ations.tex"
-Overfull \hbox (3.55797pt too wide) in paragraph at lines 10--11
-[]\OT1/cmr/bx/n/12 Example 2. \OT1/cmr/m/n/12 The sum of the an-gles of a reg-u
--lar poly-gon is given by the equa-tion $\OML/cmm/m/it/12 S\OT1/cmr/m/n/12 (\OM
-L/cmm/m/it/12 n\OT1/cmr/m/n/12 ) = 180(\OML/cmm/m/it/12 n \OMS/cmsy/m/n/12  $ 
+Overfull \hbox (4.21074pt too wide) in paragraph at lines 10--11
+[]\OT1/cmr/m/n/12 The sum of the an-gles of a reg-u-lar poly-gon is given by th
+e equa-tion $\OML/cmm/m/it/12 S\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/
+12 ) = 180(\OML/cmm/m/it/12 n \OMS/cmsy/m/n/12  $ 
  []
 
 File: logo.jpg Graphic file (type jpg)
@@ -1430,7 +1452,7 @@ Package pdftex.def Info: logo.jpg used on input line 16.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 91.
+Package pdftex.def Info: logo.jpg used on input line 87.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [27])
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.5_NumbersOper
@@ -1445,7 +1467,7 @@ Package pdftex.def Info: logo.jpg used on input line 29.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 103.
+Package pdftex.def Info: logo.jpg used on input line 101.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [29])
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.6_NumbersOper
@@ -1460,45 +1482,34 @@ Package pdftex.def Info: logo.jpg used on input line 24.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 100.
+Package pdftex.def Info: logo.jpg used on input line 96.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [31])
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.7_NumbersOper
-ations.tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 70.
+Package pdftex.def Info: logo.jpg used on input line 72.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [32
 
 
 ]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.8_NumbersOper
-ations.tex")
+Chapter 4.
+[33]
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\04.1_AlgebraFunc
+tionsI.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 71.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [33
-
-
-]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.9_NumbersOper
-ations.tex")
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 72.
+Package pdftex.def Info: logo.jpg used on input line 21.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [34
 
-
 ]
-Chapter 4.
-[35
-
-
-]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\04.1_AlgebraFunc
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 93.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [35])
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\04.2_AlgebraFunc
 tionsI.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
@@ -1506,17 +1517,18 @@ Package pdftex.def Info: logo.jpg used on input line 21.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [36
 
+
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 98.
+Package pdftex.def Info: logo.jpg used on input line 101.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [37])
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\04.2_AlgebraFunc
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\04.3_AlgebraFunc
 tionsI.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 21.
+Package pdftex.def Info: logo.jpg used on input line 25.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [38
 
@@ -1527,11 +1539,11 @@ File: logo.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo.jpg used on input line 103.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [39])
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\04.3_AlgebraFunc
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\04.4_AlgebraFunc
 tionsI.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 25.
+Package pdftex.def Info: logo.jpg used on input line 22.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [40
 
@@ -1539,10 +1551,10 @@ Package pdftex.def Info: logo.jpg used on input line 25.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 105.
+Package pdftex.def Info: logo.jpg used on input line 94.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [41])
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\04.4_AlgebraFunc
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\04.5_AlgebraFunc
 tionsI.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
@@ -1554,55 +1566,40 @@ Package pdftex.def Info: logo.jpg used on input line 22.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 96.
+Package pdftex.def Info: logo.jpg used on input line 94.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [43])
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\04.5_AlgebraFunc
-tionsI.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 22.
+Package pdftex.def Info: logo.jpg used on input line 79.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [44
 
 
 ]
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 96.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [45])
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 81.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [46
-
-
-]
 Chapter 5.
-[47]
+[45]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\05.1_AlgebraFunc
 tionsII.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 18.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [48
+ [46
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 101.
+Package pdftex.def Info: logo.jpg used on input line 99.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [49])
+ [47])
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\05.2_AlgebraFunc
 tionsII.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 30.
+Package pdftex.def Info: logo.jpg used on input line 32.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [50
+ [48
 
 
 ]
@@ -1610,12 +1607,27 @@ File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 104.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [51])
+ [49])
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\05.3_AlgebraFunc
 tionsII.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 18.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [50
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 90.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [51])
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\05.4_AlgebraFunc
+tionsII.tex"
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 27.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [52
 
@@ -1623,14 +1635,14 @@ Package pdftex.def Info: logo.jpg used on input line 18.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 92.
+Package pdftex.def Info: logo.jpg used on input line 105.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [53])
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\05.4_AlgebraFunc
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\05.5_AlgebraFunc
 tionsII.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 27.
+Package pdftex.def Info: logo.jpg used on input line 18.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [54
 
@@ -1638,19 +1650,18 @@ Package pdftex.def Info: logo.jpg used on input line 27.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 107.
+Package pdftex.def Info: logo.jpg used on input line 90.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [55])
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\05.5_AlgebraFunc
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\05.6_AlgebraFunc
 tionsII.tex"
-Overfull \hbox (7.52661pt too wide) in paragraph at lines 16--17
-\OT1/cmr/m/n/12 sey's ac-count starts at an ini-tial amount of $0.50 and the to
--tal dou-bles ev-ery day, whereas Ricky's 
+Overfull \hbox (3.14114pt too wide) in paragraph at lines 1--1
+ |[]\OT1/cmr/bx/n/17.28 Newly De-fined Sym-bols Based on Com-monly Used Op-
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 19.
+Package pdftex.def Info: logo.jpg used on input line 15.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [56
 
@@ -1658,57 +1669,53 @@ Package pdftex.def Info: logo.jpg used on input line 19.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 93.
+Package pdftex.def Info: logo.jpg used on input line 87.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [57])
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\05.6_AlgebraFunc
-tionsII.tex"
-Overfull \hbox (3.14114pt too wide) in paragraph at lines 1--1
-[]\OT1/cmr/bx/n/17.28 Newly De-fined Sym-bols Based on Com-monly Used Op- 
- []
-
 File: logo.jpg Graphic file (type jpg)
-<use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 15.
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 87.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [58
 
 
 ]
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 89.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [59])
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 89.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [60
-
-
-]
 Chapter 6.
-[61]
+[59]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\06.1_GeometryMea
 surementI.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 24.
+Package pdftex.def Info: logo.jpg used on input line 27.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [62
+ [60
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 98.
+Package pdftex.def Info: logo.jpg used on input line 99.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [63])
+ [61])
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\06.2_GeometryMea
 surementI.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 27.
+Package pdftex.def Info: logo.jpg used on input line 30.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [62
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 102.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [63])
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\06.3_GeometryMea
+surementI.tex"
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 32.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [64
 
@@ -1716,14 +1723,25 @@ Package pdftex.def Info: logo.jpg used on input line 27.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 101.
+Package pdftex.def Info: logo.jpg used on input line 104.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [65])
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\06.3_GeometryMea
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\06.4_GeometryMea
 surementI.tex"
+Overfull \hbox (4.63113pt too wide) in paragraph at lines 1--1
+ |[]\OT1/cmr/bx/n/17.28 Pythagorean The-o-rem and Spe-cial Prop-er-ties of Isos
+ce-
+ []
+
+
+Overfull \hbox (0.28305pt too wide) in paragraph at lines 15--16
+[]\OT1/cmr/m/n/12 Gretchen and Samuel leave school. Gretchen walks $45[]$ due s
+outh west and Samuel 
+ []
+
 File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 29.
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 21.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [66
 
@@ -1731,63 +1749,53 @@ Package pdftex.def Info: logo.jpg used on input line 29.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 103.
+Package pdftex.def Info: logo.jpg used on input line 93.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [67])
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\06.4_GeometryMea
-surementI.tex"
-Overfull \hbox (4.63113pt too wide) in paragraph at lines 1--1
-[]\OT1/cmr/bx/n/17.28 Pythagorean The-o-rem and Spe-cial Prop-er-ties of Isosce
-- 
- []
-
 File: logo.jpg Graphic file (type jpg)
-<use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 18.
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 93.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [68
 
 
 ]
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 92.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [69])
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 95.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [70
-
-
-]
 Chapter 7.
-[71]
+[69]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\07.1_GeometryMea
 surementII.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 26.
+Package pdftex.def Info: logo.jpg used on input line 29.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [72
+ [70
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 106.
+Package pdftex.def Info: logo.jpg used on input line 107.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [73])
+ [71])
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\07.2_GeometryMea
 surementII.tex"
-Overfull \hbox (0.18501pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/12 hour hand on a clock at 9 am if the dis-tance be-tween them is 
-twice the length of the hour hand?  
- []
-
 File: logo.jpg Graphic file (type jpg)
-<use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 14.
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 17.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [72
+
+
+]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 89.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [73])
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\07.3_GeometryMea
+surementII.tex"
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 15.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [74
 
@@ -1795,14 +1803,14 @@ Package pdftex.def Info: logo.jpg used on input line 14.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 86.
+Package pdftex.def Info: logo.jpg used on input line 98.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [75])
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\07.3_GeometryMea
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\07.4_GeometryMea
 surementII.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 12.
+Package pdftex.def Info: logo.jpg used on input line 34.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [76
 
@@ -1810,148 +1818,177 @@ Package pdftex.def Info: logo.jpg used on input line 12.
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 95.
+Package pdftex.def Info: logo.jpg used on input line 115.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [77])
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\07.4_GeometryMea
-surementII.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 33.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [78
-
-
-]
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 116.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [79])
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 101.
+Package pdftex.def Info: logo.jpg used on input line 99.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
-[80
+[78
 
 
 ]
 Chapter 8.
-[81]
+[79]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\08.1_GeometryMea
 surementIII.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 12.
+Package pdftex.def Info: logo.jpg used on input line 30.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [82
+ [80
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 87.
+Package pdftex.def Info: logo.jpg used on input line 103.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [83])
+ [81])
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\08.2_GeometryMea
 surementIII.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 12.
+Package pdftex.def Info: logo.jpg used on input line 13.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [84
+ [82
 
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 87.
+Package pdftex.def Info: logo.jpg used on input line 85.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [85])
+ [83])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 105.
+Package pdftex.def Info: logo.jpg used on input line 103.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
-[86
+[84
 
 
 ]
 Chapter 9.
-[87]
+[85]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\9.1_Statistics.t
 ex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 11.
+Package pdftex.def Info: logo.jpg used on input line 27.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [88
+ [86
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 86.
+Package pdftex.def Info: logo.jpg used on input line 118.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [89])
+ [87]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 121.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [88])
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\9.2_Statistics.t
 ex"
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 11.
+Package pdftex.def Info: logo.jpg used on input line 15.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [90
+ [89
 
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 86.
+Package pdftex.def Info: logo.jpg used on input line 88.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [91])
+ [90])
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\9.3_Statistics.t
 ex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 12.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [92
+ [91
 
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 87.
+Package pdftex.def Info: logo.jpg used on input line 84.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [93])
+ [92])
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\9.4_Statistics.t
 ex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 12.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [94
+ [93
 
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 87.
+Package pdftex.def Info: logo.jpg used on input line 84.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [95])
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 111.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [96
+ [94]) [95
 
 
-] [97] [98]
+] [96]
 Chapter 10.
-[99
+[97
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.1_WritingStra
 tegies.tex"
+Overfull \hbox (12.18915pt too wide) in paragraph at lines 1--1
+ |[]\OT1/cmr/bx/n/17.28 The Six Most Fre-quently Missed Er-rors on SAT Writ-ing
+
+ []
+
+
+Overfull \hbox (3.21309pt too wide) in paragraph at lines 1--1
+ \OT1/cmr/bx/n/17.28 Mul-ti-ple Choice: Strate-gies for Sen-tence Im-prove-ment
+s
+ []
+
+
 Overfull \hbox (201.23848pt too wide) in paragraph at lines 11--12
 []\OT1/cmr/m/n/12 The travel guide is use-ful be-cause it cov-ers not just re-v
 iews and pho-tos, $[]$  
@@ -1966,35 +2003,35 @@ i-can back-ground []
 )
 
 Package Fancyhdr Warning: \headheight is too small (14.49998pt): 
- Make it at least 41.55003pt.
+ Make it at least 27.18335pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 114.
+Package pdftex.def Info: logo.jpg used on input line 112.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [100
+ [98
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.2_WritingStra
 tegies.tex")
-Overfull \hbox (27.35678pt too wide) in paragraph at lines 3--115
+Overfull \hbox (27.35678pt too wide) in paragraph at lines 3--113
 \OT1/cmr/m/n/12 mul-ti-ple choice sec-tions. There are two mul-ti-ple choice se
 c-tions, one with $[]$ 
  []
 
 
-Overfull \hbox (61.18681pt too wide) in paragraph at lines 3--115
+Overfull \hbox (61.18681pt too wide) in paragraph at lines 3--113
 \OT1/cmr/m/n/12 ques-tions to be com-pleted in $[]$ min-utes and one with $[]$ 
 
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 115.
+Package pdftex.def Info: logo.jpg used on input line 113.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [101
+ [99
 
 
 ]
@@ -2002,14 +2039,20 @@ Package pdftex.def Info: logo.jpg used on input line 115.
 tegies.tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 116.
+Package pdftex.def Info: logo.jpg used on input line 114.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [102
+ [100
 
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.4_WritingStra
 tegies.tex"
+Overfull \hbox (43.17308pt too wide) in paragraph at lines 1--1
+ |[]\OT1/cmr/bx/n/17.28 Mastering Sen-tence Im-prove-ment and Sen-tence Er-ror 
+Ques-
+ []
+
+
 Overfull \hbox (1.71695pt too wide) in paragraph at lines 3--5
 \OT1/cmr/m/n/12 tests stan-dard En-glish gram-mar, which means that if stu-dent
 s learn a hand-ful of gram-mar rules-- 
@@ -2024,13 +2067,39 @@ on down to two or three an-swer choices
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 115.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [101
+
+
+]
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.5_WritingStra
+tegies.tex")
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 116.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [102
+
+
+]
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.6_WritingStra
+tegies.tex"
+Overfull \hbox (7.0451pt too wide) in paragraph at lines 1--1
+ |[]\OT1/cmr/bx/n/17.28 SAT Work-sheet: SAT Writ-ing Mul-ti-ple Choice Prac-tic
+e
+ []
+
+)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 117.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [103
 
 
 ]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.5_WritingStra
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.7_WritingStra
 tegies.tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
@@ -2040,8 +2109,14 @@ Package pdftex.def Info: logo.jpg used on input line 118.
 
 
 ]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.6_WritingStra
-tegies.tex")
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.8_WritingStra
+tegies.tex"
+Overfull \hbox (15.9768pt too wide) in paragraph at lines 16--16
+ |[]\OT1/cmr/bx/n/14.4 SAT Work-sheet: SAT Writ-ing Mul-ti-ple Choice Prac-tice
+ with Mod-
+ []
+
+)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 119.
@@ -2050,7 +2125,7 @@ Package pdftex.def Info: logo.jpg used on input line 119.
 
 
 ]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.7_WritingStra
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.9_WritingStra
 tegies.tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
@@ -2060,8 +2135,8 @@ Package pdftex.def Info: logo.jpg used on input line 120.
 
 
 ]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.8_WritingStra
-tegies.tex")
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.10_WritingStr
+ategies.tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 121.
@@ -2070,8 +2145,8 @@ Package pdftex.def Info: logo.jpg used on input line 121.
 
 
 ]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.9_WritingStra
-tegies.tex")
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.10_WritingStr
+ategies.tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 122.
@@ -2080,7 +2155,7 @@ Package pdftex.def Info: logo.jpg used on input line 122.
 
 
 ]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.10_WritingStr
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.12_WritingStr
 ategies.tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
@@ -2090,36 +2165,16 @@ Package pdftex.def Info: logo.jpg used on input line 123.
 
 
 ]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.10_WritingStr
-ategies.tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 124.
+Package pdftex.def Info: logo.jpg used on input line 125.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [110
 
 
 ]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\10.12_WritingStr
-ategies.tex")
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 125.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [111
-
-
-]
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 127.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [112
-
-
-]
 Chapter 11.
-[113]
+[111]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\11.1_SentenceImp
 rovements.tex"
 Missing character: There is no â in font cmbx12!
@@ -2192,14 +2247,14 @@ File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 49.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [114
+ [112
 
 ])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 128.
+Package pdftex.def Info: logo.jpg used on input line 126.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [115]
+ [113]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\11.2_SentenceImp
 rovements.tex"
 Overfull \hbox (14.01959pt too wide) in paragraph at lines 2--3
@@ -2209,24 +2264,24 @@ n-tence be-fore look-ing at the an-swer choicaes.
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 48.
+Package pdftex.def Info: logo.jpg used on input line 46.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [116
+ [114
 
 
 ])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 129.
+Package pdftex.def Info: logo.jpg used on input line 127.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [117]
+ [115]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\11.3_SentenceImp
 rovements.tex"
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 52.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [118
+ [116
 
 
 ]
@@ -2234,25 +2289,25 @@ File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 100.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [119]
+ [117]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 147.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
 
-[120])
+[118])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 130.
+Package pdftex.def Info: logo.jpg used on input line 128.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [121]
+ [119]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\11.4_SentenceImp
 rovements.tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 131.
+Package pdftex.def Info: logo.jpg used on input line 129.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [122
+ [120
 
 
 ]
@@ -2264,29 +2319,29 @@ Missing character: There is no ™ in font cmr12!
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 132.
+Package pdftex.def Info: logo.jpg used on input line 130.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [123
+ [121
 
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 134.
+Package pdftex.def Info: logo.jpg used on input line 132.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [124
+ [122
 
 
 ]
 Chapter 12.
-[125]
+[123]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\12.1_ParagraphSt
 rategies.tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 135.
+Package pdftex.def Info: logo.jpg used on input line 133.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [126
+ [124
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\12.2_ParagraphSt
@@ -2305,9 +2360,9 @@ bout gram-mar and sen-tence relation-
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 136.
+Package pdftex.def Info: logo.jpg used on input line 134.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [127
+ [125
 
 
 ]
@@ -2321,9 +2376,9 @@ Overfull \hbox (0.86414pt too wide) in paragraph at lines 11--13
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 137.
+Package pdftex.def Info: logo.jpg used on input line 135.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [128
+ [126
 
 
 ]
@@ -2331,24 +2386,30 @@ Package pdftex.def Info: logo.jpg used on input line 137.
 rategies.tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 138.
+Package pdftex.def Info: logo.jpg used on input line 136.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [129
+ [127
 
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\12.5_ParagraphSt
-rategies.tex")
-Overfull \hbox (3.57526pt too wide) in paragraph at lines 3--139
+rategies.tex"
+Overfull \hbox (25.7331pt too wide) in paragraph at lines 1--1
+ |[]\OT1/cmr/bx/n/17.28 Develop Your Own An-swer Be-fore Look-ing at the An-swe
+r
+ []
+
+)
+Overfull \hbox (3.57526pt too wide) in paragraph at lines 3--137
 \OT1/cmr/m/n/12 Making this a habit will not only pro-mote clear think-ing but 
 also in-su-late you from be-ing swayed 
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 139.
+Package pdftex.def Info: logo.jpg used on input line 137.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [130
+ [128
 
 
 ]
@@ -2373,7 +2434,7 @@ File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 55.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [131
+ [129
 
 
 ]
@@ -2416,28 +2477,28 @@ File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 92.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [132])
+ [130])
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 138.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [131]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 140.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [133]
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 142.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [134
+ [132
 
 
 ]
 Chapter 13.
-[135]
+[133]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\13.1_Essay.tex")
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 143.
+Package pdftex.def Info: logo.jpg used on input line 141.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [136
+ [134
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\13.2_Essay.tex"
@@ -2446,9 +2507,9 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 )
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 144.
+Package pdftex.def Info: logo.jpg used on input line 142.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [137
+ [135
 
 
 ]
@@ -2477,7 +2538,7 @@ File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 47.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [138
+ [136
 
 
 ]
@@ -2493,13 +2554,13 @@ Overfull \hbox (224.97043pt too wide) in paragraph at lines 51--53
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 145.
+Package pdftex.def Info: logo.jpg used on input line 143.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [139]
+ [137]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\13.4_Essay.tex"
 Overfull \hbox (22.39511pt too wide) in paragraph at lines 1--1
-[]\OT1/cmr/bx/n/17.28 Strategy #3: Use 1 Spe-cific Ex-am-ple in Each Body Para-
- 
+ |[]\OT1/cmr/bx/n/17.28 Strategy #3: Use 1 Spe-cific Ex-am-ple in Each Body Par
+a-
  []
 
 
@@ -2567,9 +2628,9 @@ chil-dren to be com-
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 58.
+Package pdftex.def Info: logo.jpg used on input line 56.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [140
+ [138
 
 
 ]
@@ -2605,9 +2666,9 @@ Overfull \hbox (356.86629pt too wide) in paragraph at lines 74--76
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 146.
+Package pdftex.def Info: logo.jpg used on input line 144.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [141]
+ [139]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\13.5_Essay.tex"
 Overfull \hbox (3.60434pt too wide) in paragraph at lines 25--26
 \OT1/cmr/m/n/14.4 lid-ify free-dom as a value to be pro-tected, so do we teach 
@@ -2617,36 +2678,40 @@ chil-dren to be com-
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 147.
+Package pdftex.def Info: logo.jpg used on input line 145.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [142
+ [140
 
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\13.6_Essay.tex")
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 148.
+Package pdftex.def Info: logo.jpg used on input line 146.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [143
+ [141
 
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\13.7_Essay.tex"
-File: logo.jpg Graphic file (type jpg)
+Overfull \hbox (11.25516pt too wide) in paragraph at lines 22--22
+ |[]\OT1/cmr/bx/n/14.4 SAT Work-sheet: Cor-rect the fol-low-ing sen-tences so t
+hat they each
+ []
 
+File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 54.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [144
+ [142
 
 
 ])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 149.
+Package pdftex.def Info: logo.jpg used on input line 147.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [145]
+ [143]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\13.8_Essay.tex"
 Overfull \hbox (16.3537pt too wide) in paragraph at lines 6--7
 []\OT1/cmr/m/n/14.4 Prompt 1: \OT1/cmr/m/it/14.4 ``No so-ci-ety can surely be f
@@ -2657,26 +2722,45 @@ File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 10.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [146
+ [144
 
 
 ])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 150.
+Package pdftex.def Info: logo.jpg used on input line 148.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [147]
+ [145]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 152.
+Package pdftex.def Info: logo.jpg used on input line 150.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [148
+ [146
 
 
 ]
 Chapter 14.
-[149]
+[147]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.1_ReadingI.te
+x")
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 151.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [148
+
+]
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.2_ReadingI.te
+x")
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 152.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [149
+
+
+]
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.3_ReadingI.te
 x")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
@@ -2684,8 +2768,9 @@ Package pdftex.def Info: logo.jpg used on input line 153.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [150
 
+
 ]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.2_ReadingI.te
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.4_ReadingI.te
 x")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
@@ -2695,28 +2780,14 @@ Package pdftex.def Info: logo.jpg used on input line 154.
 
 
 ]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.3_ReadingI.te
-x")
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 155.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [152
-
-
-]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.4_ReadingI.te
-x")
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 156.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [153
-
-
-]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.5_ReadingI.te
 x"
+Overfull \hbox (36.67308pt too wide) in paragraph at lines 1--1
+ |[]\OT1/cmr/bx/n/17.28 SATWorksheet: Prac-tice with Group-ing Vo-cab-u-lary Wo
+rds| 
+ []
+
+
 Overfull \hbox (6.64178pt too wide) in paragraph at lines 3--4
 \OT1/cmr/m/it/14.4 Directions: Use a the-saurus to find sophis-to-cated vo-cab-
 u-lary words with the mean- 
@@ -2726,7 +2797,7 @@ File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 49.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [154
+ [152
 
 
 ]
@@ -2734,24 +2805,30 @@ File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 94.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [155])
+ [153])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 157.
+Package pdftex.def Info: logo.jpg used on input line 155.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [156]
+ [154]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.6_ReadingI.te
 x")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 158.
+Package pdftex.def Info: logo.jpg used on input line 156.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [157
+ [155
 
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.7_ReadingI.te
 x"
+Overfull \hbox (17.06113pt too wide) in paragraph at lines 1--1
+ |[]\OT1/cmr/bx/n/17.28 SAT Work-sheet: Prac-tice De-ter-min-ing SAT Words us-i
+ng
+ []
+
+
 Overfull \hbox (0.53943pt too wide) in paragraph at lines 8--9
 []\OT1/cmr/m/n/14.4 Ag-, agi-, ig-, act- means do, move, or go. What will some-
 one who is a poor 
@@ -2767,7 +2844,7 @@ File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 34.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [158
+ [156
 
 
 ]
@@ -2795,34 +2872,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 159.
+Package pdftex.def Info: logo.jpg used on input line 157.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [159]
+ [157]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.8_ReadingI.te
 x")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 160.
+Package pdftex.def Info: logo.jpg used on input line 158.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [160
+ [158
 
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.9_ReadingI.te
 x"
+Overfull \hbox (7.40504pt too wide) in paragraph at lines 1--1
+ |[]\OT1/cmr/bx/n/17.28 SAT Work-sheet: De-ter-mine the con-no-ta-tion of un-fa
+-mil-
+ []
+
 File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
+<use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 48.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [161
+ [159
 
 
 ])
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 161.
+Package pdftex.def Info: logo.jpg used on input line 159.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [162]
+ [160]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.10_ReadingI.t
 ex"
 Overfull \hbox (9.7019pt too wide) in paragraph at lines 3--4
@@ -2833,17 +2915,17 @@ each of the fol-low-ing words
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 162.
+Package pdftex.def Info: logo.jpg used on input line 160.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [163
+ [161
 
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.11_ReadingI.t
 ex"
 Overfull \hbox (10.51309pt too wide) in paragraph at lines 1--1
-[]\OT1/cmr/bx/n/17.28 SAT Work-sheet: Sen-tence Com-ple-tion Strate-gies Prac- 
-
+ |[]\OT1/cmr/bx/n/17.28 SAT Work-sheet: Sen-tence Com-ple-tion Strate-gies Prac
+-
  []
 
 Missing character: There is no â in font cmr12!
@@ -2877,16 +2959,16 @@ Overfull \hbox (83.14539pt too wide) in paragraph at lines 22--23
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 163.
+Package pdftex.def Info: logo.jpg used on input line 161.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [164
+ [162
 
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.12_ReadingI.t
 ex"
 Overfull \hbox (8.8051pt too wide) in paragraph at lines 1--1
-[]\OT1/cmr/bx/n/17.28 SAT Work-sheet: Prac-tice with 1-Blank Sen-tence Com- 
+ |[]\OT1/cmr/bx/n/17.28 SAT Work-sheet: Prac-tice with 1-Blank Sen-tence Com-
  []
 
 Missing character: There is no â in font cmr12!
@@ -2902,7 +2984,7 @@ File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 47.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [165
+ [163
 
 
 ]
@@ -2916,6 +2998,12 @@ Overfull \hbox (88.17346pt too wide) in paragraph at lines 60--61
  []
 
 
+Overfull \hbox (25.96677pt too wide) in paragraph at lines 88--88
+ |[]\OT1/cmr/bx/n/14.4 SAT Work-sheet: Prac-tice with 2-Blank Sen-tence Com-ple
+-tion Ques-
+ []
+
+
 Overfull \hbox (1.2346pt too wide) in paragraph at lines 90--92
 \OT1/cmr/bx/n/14.4 Strategy for 2-Blank Sen-tence Com-ple-tions \OT1/cmr/m/n/14
 .4 When you see a sen-tence com- 
@@ -2925,7 +3013,7 @@ File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 92.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [166]
+ [164]
 Overfull \hbox (83.14539pt too wide) in paragraph at lines 114--115
 []\OT1/cmr/m/n/14.4 The $[]$ child be-lieved even the most ab-surd $[]$.  
  []
@@ -2934,7 +3022,7 @@ File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 120.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [167]
+ [165]
 Overfull \hbox (194.69801pt too wide) in paragraph at lines 124--126
 []\OT1/cmr/bx/n/14.4 How I solved the prob-lem:  []  
  []
@@ -2947,21 +3035,33 @@ Overfull \hbox (194.69801pt too wide) in paragraph at lines 137--139
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 164.
+Package pdftex.def Info: logo.jpg used on input line 162.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [168]
+ [166]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\14.13_ReadingI.t
 ex"
+Overfull \hbox (27.06708pt too wide) in paragraph at lines 1--1
+ |[]\OT1/cmr/bx/n/17.28 Vocabulary-in-Context Prac-tice for Read-ing Com-pre-he
+n-
+ []
+
+
 Overfull \hbox (17.50095pt too wide) in paragraph at lines 5--6
 \OT1/cmr/m/n/14.4 Com-ple-tions, the Crit-i-cal Read-ing sec-tion of the SATs i
 s com-posed of passage- 
+ []
+
+
+Overfull \hbox (27.01846pt too wide) in paragraph at lines 26--26
+ |[]\OT1/cmr/bx/n/14.4 SAT Work-sheet: Vocabulary-in-Context Prac-tice for Read
+-ing Com-
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 31.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [169
+ [167
 
 
 ]
@@ -2992,7 +3092,7 @@ File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 40.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [170]
+ [168]
 Overfull \hbox (128.14554pt too wide) in paragraph at lines 44--46
 []\OT1/cmr/m/it/14.4 Definition of ``fire''\OT1/cmr/m/n/14.4 :  []  
  []
@@ -3045,7 +3145,7 @@ File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 71.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [171]
+ [169]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
@@ -3086,11 +3186,11 @@ s. From https://www.gutenberg.org/files/24070/24070-
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 165.
+Package pdftex.def Info: logo.jpg used on input line 163.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [172]
+ [170]
 Chapter 15.
-[173
+[171
 
 
 ]
@@ -3098,18 +3198,24 @@ Chapter 15.
 ex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 168.
+Package pdftex.def Info: logo.jpg used on input line 166.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [174
+ [172
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\15.2_ReadingII.t
-ex")
+ex"
+Overfull \hbox (21.98184pt too wide) in paragraph at lines 35--35
+ |[]\OT1/cmr/bx/n/14.4 SAT Work-sheet: Prac-tice with Key Words in Sen-tence Co
+m-ple-tions| 
+ []
+
+)
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 169.
+Package pdftex.def Info: logo.jpg used on input line 167.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [175
+ [173
 
 
 ]
@@ -3132,11 +3238,17 @@ Overfull \hbox (4.23097pt too wide) in paragraph at lines 28--30
 a-graph and b) the main 
  []
 
+
+Overfull \hbox (45.52344pt too wide) in paragraph at lines 32--32
+ |[]\OT1/cmr/bx/n/14.4 SAT Work-sheet: Prac-tice Iden-ti-fy-ing Main Ideas and 
+Im-por-tant Points| 
+ []
+
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 38.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [176
+ [174
 
 
 ]
@@ -3144,7 +3256,7 @@ File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 47.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [177]
+ [175]
 Overfull \hbox (13.00423pt too wide) in paragraph at lines 52--53
 \OT1/cmr/m/n/14.4 some of the older so-ci-o-log-i-cal writ-ings the word so-ci-
 ety is of-ten used as nearly 
@@ -3160,7 +3272,7 @@ File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 59.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [178]
+ [176]
 Overfull \hbox (22.31145pt too wide) in paragraph at lines 72--73
 []\OT1/cmr/m/n/14.4 The pas-sage, SO-CI-OL-OGY AND MOD-ERN SO-CIAL PROB-LEMS, i
 s adapted 
@@ -3169,26 +3281,37 @@ s adapted
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 170.
+Package pdftex.def Info: logo.jpg used on input line 168.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [179]
+ [177]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\15.4_ReadingII.t
-ex")
-Overfull \hbox (5.32764pt too wide) in paragraph at lines 25--171
+ex"
+Overfull \hbox (11.48726pt too wide) in paragraph at lines 1--1
+ |[]\OT1/cmr/bx/n/17.28 Determining Key Phrases in the Passage-Based Read-ing
+ []
+
+)
+Overfull \hbox (5.32764pt too wide) in paragraph at lines 25--169
 \OT1/cmr/m/n/14.4 the five an-swer choices given in a mul-ti-ple choice prob-le
 m. This means that there 
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 171.
+Package pdftex.def Info: logo.jpg used on input line 169.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [180
+ [178
 
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\15.5_ReadingII.t
 ex"
+Overfull \hbox (52.65718pt too wide) in paragraph at lines 1--1
+ |[]\OT1/cmr/bx/n/17.28 SAT Work-sheet: Prac-tice with Passage-Based Read-ing Q
+ues-
+ []
+
+
 Overfull \hbox (15.3709pt too wide) in paragraph at lines 3--7
 \OT1/cmr/m/n/14.4 that fol-low. \OT1/cmr/bx/n/14.4 Af-ter you are fin-ished an-
 swer-ing the ques-tion, put the phrase 
@@ -3203,9 +3326,9 @@ ence for your
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 172.
+Package pdftex.def Info: logo.jpg used on input line 170.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [181
+ [179
 
 
 ]
@@ -3241,9 +3364,9 @@ $[]$ \OT1/cmr/m/n/14.4 and $[]$ but it doesn't $[]$
 )
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 173.
+Package pdftex.def Info: logo.jpg used on input line 171.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [182
+ [180
 
 
 ]
@@ -3251,22 +3374,22 @@ Package pdftex.def Info: logo.jpg used on input line 173.
 ex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 174.
+Package pdftex.def Info: logo.jpg used on input line 172.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [183
+ [181
 
 
 ]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 176.
+Package pdftex.def Info: logo.jpg used on input line 174.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [184
+ [182
 
 
 ]
 Chapter 16.
-[185]
+[183]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\16.1_ReadingIII.
 tex")
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3274,9 +3397,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 177.
+Package pdftex.def Info: logo.jpg used on input line 175.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [186
+ [184
 
 ]
 Overfull \vbox (84.56052pt too high) has occurred while \output is active []
@@ -3284,10 +3407,36 @@ Overfull \vbox (84.56052pt too high) has occurred while \output is active []
 File: logo.jpg Graphic file (type jpg)
 
 <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 175.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [185]
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\16.2_ReadingIII.
+tex"
+Overfull \hbox (19.91919pt too wide) in paragraph at lines 1--1
+ |[]\OT1/cmr/bx/n/17.28 Determining the Re-la-tion-ships Be-tween Parts of the 
+Pas-
+ []
+
+)
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 176.
+(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
+ [186
+
+
+]
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\16.3_ReadingIII.
+tex")
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
 Package pdftex.def Info: logo.jpg used on input line 177.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [187]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\16.2_ReadingIII.
+ [187
+
+
+]
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\16.4_ReadingIII.
 tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
@@ -3297,7 +3446,7 @@ Package pdftex.def Info: logo.jpg used on input line 178.
 
 
 ]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\16.3_ReadingIII.
+("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\16.5_ReadingIII.
 tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
@@ -3307,61 +3456,41 @@ Package pdftex.def Info: logo.jpg used on input line 179.
 
 
 ]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\16.4_ReadingIII.
-tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 180.
+Package pdftex.def Info: logo.jpg used on input line 181.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
  [190
 
 
 ]
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\16.5_ReadingIII.
-tex")
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 181.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [191
-
-
-]
-File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 183.
-(pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [192
-
-
-]
 Chapter 17.
-[193]
+[191]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\17.1_Vocabulary.
 tex")
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 184.
+Package pdftex.def Info: logo.jpg used on input line 182.
 (pdftex.def)             Requested size: 22.38493pt x 22.68607pt.
- [194
+ [192
 
 ]
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\18_AnswerKey.tex
 "
 Chapter 18.
 
-LaTeX Warning: Reference `2.3' on page 195 undefined on input line 3.
+LaTeX Warning: Reference `2.3' on page 193 undefined on input line 3.
 
 
-LaTeX Warning: Reference `2.4' on page 195 undefined on input line 10.
+LaTeX Warning: Reference `2.4' on page 193 undefined on input line 10.
 
-) [195
+) [193
 
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 185.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 185.
 
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\Student Manual 2
 .aux"
@@ -3382,12 +3511,6 @@ ations.aux")
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.5_NumbersOper
 ations.aux")
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.6_NumbersOper
-ations.aux")
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.7_NumbersOper
-ations.aux")
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.8_NumbersOper
-ations.aux")
-("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\03.9_NumbersOper
 ations.aux")
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\04.1_AlgebraFunc
 tionsI.aux")
@@ -3548,43 +3671,49 @@ aux")
 aux")
 ("C:\Users\Lauren\Desktop\SAT Advanced Binder 2\studentmanual2\18_AnswerKey.aux
 "))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 185.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 185.
 Package rerunfilecheck Info: File `Student*Manual*2.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 
 
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 185.
  ) 
 Here is how much of TeX's memory you used:
- 28907 strings out of 493921
- 682619 string characters out of 3144873
- 816001 words of memory out of 3000000
- 29607 multiletter control sequences out of 15000+200000
- 18967 words of font info for 69 fonts, out of 3000000 for 9000
+ 29673 strings out of 493921
+ 693768 string characters out of 3144873
+ 830731 words of memory out of 3000000
+ 30285 multiletter control sequences out of 15000+200000
+ 21114 words of font info for 77 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 55i,17n,78p,1884b,872s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,17n,76p,1884b,876s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbsy10.pfb
-><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
-C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><
-C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "Student Manual 2.pdf" (195 pages, 777374 bytes).
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on "Student Manual 2.pdf" (193 pages, 808683 bytes).
 PDF statistics:
- 2965 PDF objects out of 2984 (max. 8388607)
- 1460 named destinations out of 1728 (max. 500000)
- 1026 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3064 PDF objects out of 3580 (max. 8388607)
+ 1548 named destinations out of 1728 (max. 500000)
+ 1002 words of extra memory for PDF output out of 10000 (max. 10000000)
 
