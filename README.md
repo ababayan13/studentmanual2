@@ -2,6 +2,7 @@
 
 ## Authors ##
 Lauren E. Blake
+
 Richard Torres
 
 ## Change log ##
