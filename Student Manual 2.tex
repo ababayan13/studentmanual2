@@ -4,6 +4,7 @@
 \usepackage{tabularx,setspace, amssymb, amsmath, outlines, multicol, paralist, tikz, pgfplots, graphicx,enumitem, multienum, fixltx2e, fancyhdr, soul, lineno, hyperref, tocloft, titlesec, xcolor, colortbl, array, pgf-pie}%xr}
 \usepackage[Bjornstrup]{fncychap}
 \usepackage[document]{ragged2e}
+
 %\pdfcatalog{/PageLayout /SinglePage}
 \renewcommand{\thesection}{\arabic{section}}
 \hypersetup{colorlinks, citecolor=black, filecolor=black, linkcolor=black}
@@ -21,11 +22,6 @@
 \renewcommand{\baselinestretch}{1.15}
 \newcommand{\medium}{\centerline{\fontfamily{cmss}\selectfont{\textbf{\large MEDIUM}}}}
 \newcommand{\advanced}{\centerline{\fontfamily{cmss}\selectfont{\textbf{\large ADVANCED}}}}
-\newcommand{\plane}{\begin{tikzpicture}[scale=0.6]
-\draw[step=0.5] (0,0) grid (10,10);
-\draw[ultra thick] (0,5) -- (10,5);
-\draw[ultra thick] (5,0) -- (5,10);
-\end{tikzpicture}}
 
 \renewcommand*\tfrac[2]{\raisebox{-1em}{$\stackrel{\hbox{\underline{\smash{#1}}}}{\hbox{#2}}$}}
 
