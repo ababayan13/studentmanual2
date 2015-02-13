@@ -2,6 +2,7 @@
 \usepackage[margin=0.8in]{geometry}
 \parindent=0mm
 \usepackage{tabularx,setspace, amssymb, amsmath, outlines, multicol, paralist, tikz, pgfplots, graphicx,enumitem, multienum, fixltx2e, fancyhdr, soul, lineno, hyperref, tocloft, titlesec, xcolor, colortbl, array, pgf-pie}%xr}
+\usepackage[Bjornstrup]{fncychap}
 \usepackage[document]{ragged2e}
 %\pdfcatalog{/PageLayout /SinglePage}
 \renewcommand{\thesection}{\arabic{section}}
@@ -48,21 +49,30 @@
 
 \renewcommand\sectionmark[1]{\markright{\bfseries\fontfamily{cmss}\selectfont{\thesection.\ #1}}}
 
-\lhead[\fancyplain{}{\thepage}]
-    {\fancyplain{}{\rightmark}}
-\rhead[\fancyplain{}{\leftmark}]
-    {\fancyplain{}{\bfseries\thepage}}
+\fancyhead[LE]{\fancyplain{}{\bfseries\fontfamily{cmss}\selectfont{\rightmark}}}
+\fancyhead[RO]{\fancyplain{}{\bfseries\fontfamily{cmss}\selectfont{\leftmark}}}
 
-
-%s\fancyhead[LE]{\fontfamily{cmss}\selectfont{\leftmark}}
-%\fancyhead[RO]{\fontfamily{cmss}\selectfont{\thechapter.\rightmark}}
-
-%\rhead{\rightmark}
 \rfoot{\fontfamily{cmss}\selectfont{\thepage}}
 \renewcommand\headrulewidth{2pt}
 %\renewcommand\chaptermark[1]{\markboth{#1}{}}
 %\renewcommand\sectionmark[1]{\markright{\thesection.\ #1}}
 \setlength{\columnseprule}{1pt}
+
+\ChNumVar{\fontsize{76}{80}\usefont{OT1}{pzc}{m}{n}\selectfont}
+\ChTitleVar{\raggedleft\Large\sffamily\bfseries}
+
+\newcounter{mycont}
+
+\newcommand\mline[1][5]{%
+\setcounter{mycont}{0}
+\par\noindent\loop
+\ifnum\value{mycont}<#1
+\begin{spacing}{1.5}
+\hrulefill
+\end{spacing}
+
+\stepcounter{mycont}
+\repeat\par}
 
 \begin{document}
 \frontmatter
@@ -136,7 +146,7 @@
 	\include{10.8_WritingStrategies}
 	\include{10.9_WritingStrategies}
 	\include{10.10_WritingStrategies}
-	\include{10.10_WritingStrategies}
+	\include{10.11_WritingStrategies}
 	\include{10.12_WritingStrategies}
 
 \chapter{Sentence Improvements}
