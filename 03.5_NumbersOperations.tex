@@ -1,10 +1,12 @@
 \section{Sets}
 
 \bigskip
-\textbf{General Equation:}
+\textbf{General Equation}
 
-\begin{center}
+\bigskip
+\begin{equationbox}{Sets}
 \setlength{\columnseprule}{0pt}
+\begin{center}
 \begin{multicols}{2}
 \textbf{\large Union}
 
@@ -12,15 +14,35 @@ $P\cup Q$
 
 All elements in either set $P$ \textit{or} $Q$
 
+\bigskip
+\begin{tikzpicture}[thick,scale=1.25]
+\fill[white] (-2,-2) -- (4,-2) -- (4,2) -- (-2,2) -- cycle;
+\fill[lightgray] (0,0) circle (1.5cm);
+\fill[lightgray] (2,0) circle (1.5cm);
+\draw (0,0) circle (1.5cm) node[left] {A};
+\draw (2,0) circle (1.5cm) node[right] {B};
+\end{tikzpicture}
+
+
 \textbf{\large Intersection}
 
 $P\cap Q$
 
 All elements in both $P$ \textit{and} $Q$
+
+\bigskip
+\begin{tikzpicture}[thick,scale=1.25]
+\fill[white] (-2,-2) -- (4,-2) -- (4,2) -- (-2,2) -- cycle;
+\draw (0,0) circle (1.5cm) node[left] {A};
+\draw (2,0) circle (1.5cm) node[right] {B};
+\clip (0,0) circle (1.5cm);
+\fill[lightgray] (2,0) circle (1.5cm);
+\end{tikzpicture}
 \end{multicols}
 \end{center}
+\end{equationbox}
 
-\vfill
+\bigskip
 \begin{enumerate}[labelindent=*,style=multiline,leftmargin=*,label=\textbf{Example \arabic*:}]
 \item Martha's has 15 cupcakes that are vanilla frosted and 10 cupcakes that are chocolate frosted. If two-thirds of Martha's cupcakes are both vanilla and chocolate frosted, how many cupcakes have vanilla frosting?
 \vfill\item In the set of integers from 1 to 100 inclusively, how many numbers are divisible by 3 or 5 but not both?
@@ -68,7 +90,7 @@ All elements in both $P$ \textit{and} $Q$
 \columnbreak
 \advanced
 
-\1 Helen has a box of 40 chocolates. The proportion of choosing a cherry filled or coconut is 0.3, whereas the proportion of choosing a coconut or creme filled is 0.4. If the number of creme filled is twice the number of cherry filled chocolates and there is at least one cherry filled chocolate, what proportion of coconut chocolates are there?
+\1 Helen has a box of 40 chocolates. The proportion cherry filled or coconut chocolates is 0.3, whereas the proportion of coconut or creme filled is 0.4. If the number of creme filled is twice the number of cherry filled and there is at least one cherry filled, what proportion of the box is coconut?
 
 \bigskip
 \textbf{Equation/Strategy:} \hrulefill
@@ -85,7 +107,7 @@ All elements in both $P$ \textit{and} $Q$
 
 \midline
 
-\1 
+\1 When a positive integer $n$ is divided by 4, the remainder is 3. When $n$ is divided by 5, the remainder is 1. How many values of $n$ are there from 1 to 40?
 
 \bigskip
 \textbf{Equation/Strategy:} \hrulefill
@@ -94,10 +116,10 @@ All elements in both $P$ \textit{and} $Q$
 \textbf{Solve:}
 
 \vfill
-\2 0.4
-\2 0.42
-\2 0.5
-\2 0.6
-\2 0.84
+\2 0
+\2 1
+\2 2
+\2 3
+\2 4
 \end{outline}
 \end{multicols*}

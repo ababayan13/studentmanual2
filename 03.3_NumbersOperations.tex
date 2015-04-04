@@ -1,21 +1,43 @@
 \section{Sequences and Series}
 
 \bigskip
-\textbf{General Equation:}
+\textbf{General Equation}
 
 \bigskip
-\begin{tabularx}{\textwidth}{*2{@{}>{\centering\arraybackslash}X}}
-\textbf{Arithmetic Sequence} & \textbf{Geometric Sequence}\\
-$a_n=a_1+d(n-1)$ & $a_n=a_1r^{n-1}$
-\end{tabularx}
+\begin{equationbox}{Sequence and Series Formulas}
+\setlength{\columnseprule}{0pt}
+\begin{center}
+\begin{multicols}{2}
 
-\vfill
-\begin{tabularx}{\textwidth}{*2{@{}>{\centering\arraybackslash}X}}
-\textbf{Arithmetic Series} & \textbf{Geometric Series}\\
-$S=\frac{n(a_1+a_n)}{2}$ & $S=\frac{a_1(1-r^n)}{1-r}$
-\end{tabularx}
+\textbf{Arithmetic Sequence}
 
-\vfill
+
+$a_n=a_1+d(n-1)$
+
+\vspace{2em}
+\textbf{Arithmetic Series}
+
+\medskip
+$S=\frac{n(a_1+a_n)}{2}$
+
+\columnbreak
+\textbf{Geometric Sequence}
+
+\smallskip
+$a_n=a_1r^{n-1}$
+
+\vspace{2em}
+\textbf{Geometric Series}
+
+\medskip
+$S=\frac{a_1(1-r^n)}{1-r}$
+\end{multicols}
+\end{center}
+\end{equationbox}
+
+where $a_1$ is the first term of the sequence, $n$ is the number of terms of a given sequence, $a_n$ is the $n$th term of the sequence, $d$ is the common difference between consecutive terms ($a_n-a_{n-1}$), and $r$ is the common ratio between consecutive terms $\left(\frac{a_n}{a_{n-1}}\right)$.
+
+\vspace{1em}
 \begin{enumerate}[labelindent=*,style=multiline,leftmargin=*,label=\textbf{Example \arabic*:}]
 \item Shelly is preparing to run for a marathon. If Shelly starts running on the first week with 1 kilometer, and doubles the number of kilometers every week, how many miles will she run on the sixth week?
 
