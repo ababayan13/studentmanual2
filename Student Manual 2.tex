@@ -1,7 +1,7 @@
 \documentclass[12pt]{book}
 \usepackage[margin=0.8in]{geometry}
 \parindent=0mm
-\usepackage{tabularx,setspace, amssymb, amsmath, outlines, multicol, paralist, tikz, pgfplots, graphicx,enumitem, multienum, fixltx2e, fancyhdr, soul, lineno, hyperref, tocloft, titlesec, xcolor, colortbl, array, pgf-pie}
+\usepackage{tabularx,setspace, amssymb, amsmath, outlines, multicol, paralist, tikz, pgfplots, graphicx,enumitem, multienum, fixltx2e, fancyhdr, soul, lineno, hyperref, tocloft, titlesec, xcolor, colortbl, array, pgf-pie, multirow}
 \usepackage[Bjornstrup]{fncychap}
 \usepackage[document]{ragged2e}
 \usepackage{emptypage,parcolumns, mdwlist}
@@ -73,7 +73,7 @@
 \newtcolorbox{equationbox}[1]{colback=red!5!white,colframe=red!75!black,fonttitle=\centering\bfseries\sffamily\Large,title=#1}
 
 \titleformat*{\section}{\Large\bfseries\sffamily}
-\titleclass{\part}{top} % make part like a chapter
+%\titleclass{\part}{top} % make part like a chapter
 \titleformat{\part}
 [display]
 {\centering\normalfont\huge}
@@ -89,6 +89,8 @@
 \renewcommand{\cftsubsecfont}{\normalfont\sffamily}
 \renewcommand{\cftsecpagefont}{\sffamily}
 \renewcommand{\cftsubsecpagefont}{\sffamily}
+\newcommand{\headertitle}[1]{\centerline{\bfseries\Large\sffamily #1}}
+
 \begin{document}
 \frontmatter
 \maketitle
@@ -103,7 +105,7 @@
 
 \include{02_MathStrategies}
 
-\chapter{Numbers and Operations}
+	\include{03.0_NumbersOperations}
 	\include{03.1_NumbersOperations}
 	\include{03.2_NumbersOperations}
 	\include{03.3_NumbersOperations}
@@ -111,7 +113,7 @@
 	\include{03.5_NumbersOperations}
 	\include{03.6_NumbersOperations}
 
-\chapter{Algebra and Functions: Part I}
+\include{04.0_AlgebraFunctionsI}
 	\include{04.1_AlgebraFunctionsI}
 	\include{04.2_AlgebraFunctionsI}
 	\include{04.3_AlgebraFunctionsI}
