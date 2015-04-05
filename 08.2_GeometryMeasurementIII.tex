@@ -1,8 +1,22 @@
 \section{Geometric Visualization}
 
-\textbf{General Equation:}
+\textbf{General Equation}
 
-\vfill
+\bigskip
+\begin{equationbox}{$\boldsymbol{XY-}$plane}
+\textbf{Definition:} The $xy-$plane (Cartesian plane) is used to plot rectangular coordinates $(x, y)$.
+
+\begin{center}
+\begin{tikzpicture}[scale=0.75]
+\fill[white] (0,0) rectangle (10,10);
+\draw (0,0) grid (10,10);
+\draw[latex-latex, line width=2pt] (5,0) node[below] {$-y$} -- (5,10) node[above] {$y$};
+\draw[latex-latex, line width=2pt] (0,5) node[left] {$-x$} -- (10,5) node[right] {$x$};
+\end{tikzpicture}
+\end{center}
+\end{equationbox}
+
+\bigskip
 \begin{enumerate}[labelindent=*,style=multiline,leftmargin=*,label=\textbf{Example \arabic*:}]
 \item An northward facing arrow is rotated $45^\circ$ counterclockwise, then flipped vertically and horizontally. What direction is the arrow now facing?
 \vfill\item Opposite sides of dice have a sum of 7. If John rolls a die three times and the sum of his rolls is 7, what is the sum of the opposite sides of the same three rolls?

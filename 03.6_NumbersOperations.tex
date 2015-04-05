@@ -1,21 +1,31 @@
 \section{Counting Techniques}
 
 \bigskip
-\textbf{General Equation:} 
+\textbf{General Equation}
 
-\begin{tabularx}{\textwidth}{*2{@{}>{\centering\arraybackslash}X}}
-\textbf{Permutations} & \textbf{Combinations}\\
+\bigskip
+\begin{equationbox}{Permutations and Combinations}
+When choosing $r$ items from $n$ items,
+
+\bigskip
+\renewcommand{\arraystretch}{1.15}
+\setlength{\fboxsep}{0pt}
+\colorbox{white}{
+\begin{tabularx}{\textwidth}{@{}|*2{>{\centering\arraybackslash}X|}}\hline
+\textbf{\large Permutations} & \textbf{\large Combinations}\\
+When order matters & When order does not matter\\\hline
 \textit{Without Repetition} & \textit{Without Repetition}\\
-$_nP_r=\frac{n!}{(n-r)!}$ & $_nC_r=\frac{n!}{r!(n-r)!}$\\[2em]
+$_nP_r=\frac{n!}{(n-r)!}$ & $_nC_r=\frac{n!}{r!(n-r)!}$\\[1.5em]
 \textit{With Repetition} & \textit{With Repetition}\\
-$n^r$ & $\frac{(n+r-1)!}{r!(n-1)!}$
-\end{tabularx}
+$n^r$ & $\frac{(n+r-1)!}{r!(n-1)!}$\\[2ex]\hline
+\end{tabularx}}
+\end{equationbox}
 
-\vfill
+\bigskip
 \begin{enumerate}[labelindent=*,style=multiline,leftmargin=*,label=\textbf{Example \arabic*:}]
 \item Mandy is throwing an ice cream party and has 3 flavors of ice cream and 4 different toppings. How many different combinations can her guests make?
 
-\vfill\item Jerry is making a sundae with 3 scoops of ice cream. If he has 5 different flavors of ice cream, how many different combinations can Jerry make?
+\vfill\item Jerry is making a sundae with 3 scoops of ice cream. If he has 5 flavors of ice cream, how many different combinations can Jerry make if he can only use each flavor once?
 
 \vfill\item If a four-digit pin number contains the digits 0 to 9 where no digit can be repeated more than twice, how many different combinations for pin numbers are possible?
 \end{enumerate}

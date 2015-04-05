@@ -1,9 +1,11 @@
 \documentclass[12pt]{book}
 \usepackage[margin=0.8in]{geometry}
 \parindent=0mm
-\usepackage{tabularx,setspace, amssymb, amsmath, outlines, multicol, paralist, tikz, pgfplots, graphicx,enumitem, multienum, fixltx2e, fancyhdr, soul, lineno, hyperref, tocloft, titlesec, xcolor, colortbl, array, pgf-pie}%xr}
+\usepackage{tabularx,setspace, amssymb, amsmath, outlines, multicol, paralist, tikz, pgfplots, graphicx,enumitem, multienum, fixltx2e, fancyhdr, soul, lineno, hyperref, tocloft, titlesec, xcolor, colortbl, array, pgf-pie}
 \usepackage[Bjornstrup]{fncychap}
 \usepackage[document]{ragged2e}
+\usepackage{emptypage,parcolumns, mdwlist}
+
 %\pdfcatalog{/PageLayout /SinglePage}
 \renewcommand{\thesection}{\arabic{section}}
 \hypersetup{colorlinks, citecolor=black, filecolor=black, linkcolor=black}
@@ -21,18 +23,13 @@
 \renewcommand{\baselinestretch}{1.15}
 \newcommand{\medium}{\centerline{\fontfamily{cmss}\selectfont{\textbf{\large MEDIUM}}}}
 \newcommand{\advanced}{\centerline{\fontfamily{cmss}\selectfont{\textbf{\large ADVANCED}}}}
-\newcommand{\plane}{\begin{tikzpicture}[scale=0.6]
-\draw[step=0.5] (0,0) grid (10,10);
-\draw[ultra thick] (0,5) -- (10,5);
-\draw[ultra thick] (5,0) -- (5,10);
-\end{tikzpicture}}
 
 \renewcommand*\tfrac[2]{\raisebox{-1em}{$\stackrel{\hbox{\underline{\smash{#1}}}}{\hbox{#2}}$}}
 
-\tikzset{ every path/.append style={line width=1 pt}}
+%\tikzset{ every path/.append style={line width=1 pt}}
 
-\title{\textbf{\huge SAT Student Manual 2}}
-\author{\includegraphics{logo}\\\textbf{\large ASC English}}
+\title{\textbf{\sffamily\huge SAT Student Manual 2}}
+\author{\includegraphics{logo}\\\textbf{\sffamily\large ASC English}}
 \date{}
 
 \newcommand{\midline}{\centerline{\rule{0.4\textwidth}{1pt}}}
@@ -72,12 +69,32 @@
 \stepcounter{mycont}
 \repeat\par}
 
+\usepackage[theorems]{tcolorbox}
+\newtcolorbox{equationbox}[1]{colback=red!5!white,colframe=red!75!black,fonttitle=\centering\bfseries\sffamily\Large,title=#1}
+
+\titleformat*{\section}{\Large\bfseries\sffamily}
+\titleclass{\part}{top} % make part like a chapter
+\titleformat{\part}
+[display]
+{\centering\normalfont\huge}
+{\vspace{1in}\titlerule[3pt]\vspace{3pt}\titlerule[1pt]\vspace{3pt}\sffamily\MakeUppercase{\partname} \thepart}
+{0pt}
+{\titlerule[1pt]\vspace{3pt}\titlerule[3pt]\vspace{4pc}\huge\bfseries\sffamily\MakeUppercase}
+\titlespacing*{\part}{0pt}{0pt}{0pt}
+
+\renewcommand{\contentsname}{\sffamily Table of Contents}
+\renewcommand{\cftpartfont}{\normalfont\bfseries\sffamily}
+\renewcommand{\cftchapfont}{\normalfont\bfseries\sffamily}
+\renewcommand{\cftsecfont}{\normalfont\sffamily}
+\renewcommand{\cftsubsecfont}{\normalfont\sffamily}
+\renewcommand{\cftsecpagefont}{\sffamily}
+\renewcommand{\cftsubsecpagefont}{\sffamily}
 \begin{document}
 \frontmatter
 \maketitle
 \include{Acknowledgments}
 
-\tableofcontents
+{\sffamily\tableofcontents}
 \mainmatter
 
 \include{01_Introduction}
