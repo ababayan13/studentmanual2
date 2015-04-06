@@ -1,7 +1,8 @@
 \documentclass[12pt]{book}
 \usepackage[margin=0.8in]{geometry}
 \parindent=0mm
-\usepackage{tabularx,setspace, amssymb, amsmath, outlines, multicol, paralist, tikz, pgfplots, graphicx,enumitem, multienum, fixltx2e, fancyhdr, soul, lineno, hyperref, tocloft, titlesec, xcolor, colortbl, array, pgf-pie, multirow}
+\usepackage{tabularx,setspace, amssymb, amsmath, outlines, multicol, paralist, tikz, pgfplots, graphicx, enumitem, multienum, fixltx2e, fancyhdr, soul, lineno, hyperref, tocloft, titlesec, xcolor, colortbl, array, pgf-pie, multirow, caption}
+\usetikzlibrary{calc,trees,positioning,arrows,fit,shapes,calc}
 \usepackage[Bjornstrup]{fncychap}
 \usepackage[document]{ragged2e}
 \usepackage{emptypage,parcolumns, mdwlist}
@@ -18,15 +19,13 @@
 \pagestyle{fancy}
 \everymath{\displaystyle}
 \renewcommand{\indent}{\hspace{1cm}}
-\newcommand{\longline}{\underline{\hspace{2in}} }
-\newcommand{\shortline}{\underline{\hspace{1in}}}
+\newcommand{\longline}{\underline{\hspace{2in}}}
+\newcommand{\shortline}{\underline{\hspace{1in}}\ }
 \renewcommand{\baselinestretch}{1.15}
 \newcommand{\medium}{\centerline{\fontfamily{cmss}\selectfont{\textbf{\large MEDIUM}}}}
 \newcommand{\advanced}{\centerline{\fontfamily{cmss}\selectfont{\textbf{\large ADVANCED}}}}
 
 \renewcommand*\tfrac[2]{\raisebox{-1em}{$\stackrel{\hbox{\underline{\smash{#1}}}}{\hbox{#2}}$}}
-
-%\tikzset{ every path/.append style={line width=1 pt}}
 
 \title{\textbf{\sffamily\huge SAT Student Manual 2}}
 \author{\includegraphics{logo}\\\textbf{\sffamily\large ASC English}}
@@ -44,7 +43,7 @@
 	\markboth{\bfseries#1}{}
 \fi}
 
-\renewcommand\sectionmark[1]{\markright{\bfseries\fontfamily{cmss}\selectfont{\thesection.\ #1}}}
+\renewcommand\sectionmark[1]{\markright{\bfseries\sffamily\thesection.\ #1}}
 
 \fancyhead[LE]{\fancyplain{}{\bfseries\fontfamily{cmss}\selectfont{\rightmark}}}
 \fancyhead[RO]{\fancyplain{}{\bfseries\fontfamily{cmss}\selectfont{\leftmark}}}
@@ -58,7 +57,7 @@
 
 \newcounter{mycont}
 
-\newcommand\mline[1][5]{%
+\newcommand\mline[1][5]{
 \setcounter{mycont}{0}
 \par\noindent\loop
 \ifnum\value{mycont}<#1
@@ -73,6 +72,7 @@
 \newtcolorbox{equationbox}[1]{colback=red!5!white,colframe=red!75!black,fonttitle=\centering\bfseries\sffamily\Large,title=#1}
 
 \titleformat*{\section}{\Large\bfseries\sffamily}
+\titleformat*{\subsection}{\large\bfseries\sffamily}
 %\titleclass{\part}{top} % make part like a chapter
 \titleformat{\part}
 [display]
@@ -81,7 +81,7 @@
 {0pt}
 {\titlerule[1pt]\vspace{3pt}\titlerule[3pt]\vspace{4pc}\huge\bfseries\sffamily\MakeUppercase}
 \titlespacing*{\part}{0pt}{0pt}{0pt}
-
+	
 \renewcommand{\contentsname}{\sffamily Table of Contents}
 \renewcommand{\cftpartfont}{\normalfont\bfseries\sffamily}
 \renewcommand{\cftchapfont}{\normalfont\bfseries\sffamily}
@@ -120,7 +120,7 @@
 	\include{04.4_AlgebraFunctionsI}
 	\include{04.5_AlgebraFunctionsI}
 
-\chapter{Algebra and Functions: Part II}
+\include{05.0_AlgebraFunctionsII}
 	\include{05.1_AlgebraFunctionsII}
 	\include{05.2_AlgebraFunctionsII}
 	\include{05.3_AlgebraFunctionsII}
@@ -128,31 +128,31 @@
 	\include{05.5_AlgebraFunctionsII}
 	\include{05.6_AlgebraFunctionsII}
 
-\chapter{Geometry and Measurement: Part I}
+\include{06.0_GeometryMeasurementI}
 	\include{06.1_GeometryMeasurementI}
 	\include{06.2_GeometryMeasurementI}
 	\include{06.3_GeometryMeasurementI}
 	\include{06.4_GeometryMeasurementI}
 
-\chapter{Geometry and Measurement: Part II}
+\include{07.0_GeometryMeasurementII}
 	\include{07.1_GeometryMeasurementII}
 	\include{07.2_GeometryMeasurementII}
 	\include{07.3_GeometryMeasurementII}
 	\include{07.4_GeometryMeasurementII}
 
-\chapter{Geometry and Measurement: Part III}
+\include{08.0_GeometryMeasurementIII}
 	\include{08.1_GeometryMeasurementIII}
 	\include{08.2_GeometryMeasurementIII}
 
-\chapter{Data Analysis, Statistics, and Probability}
-	\include{9.1_Statistics}
-	\include{9.2_Statistics}
-	\include{9.3_Statistics}
-	\include{9.4_Statistics}
+\include{09.0_Statistics}
+	\include{09.1_Statistics}
+	\include{09.2_Statistics}
+	\include{09.3_Statistics}
+	\include{09.4_Statistics}
 
 \part{SAT Verbal}
 
-\chapter{The Six Most Frequently Missed Errors on SAT Writing Multiple Choice: Strategies for Sentence Improvements and Sentence Errors}
+\chapter{Strategies for Sentence Improvements and Sentence Errors}
 	\include{10.1_WritingStrategies}
 	\include{10.2_WritingStrategies}
 	\include{10.3_WritingStrategies}

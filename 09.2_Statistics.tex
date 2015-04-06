@@ -6,13 +6,15 @@
 \textbf{Definition:} A \textbf{\textit{graph}} is a diagram that shows the relationship between two or more variables.
 \end{equationbox}
 
+\bigskip
+\headertitle{Highest Level of Math by High School Graduates in 2005\footnote{U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, High School Transcript Study (HSTS), Mathematics Curriculum Study, 2005.}}
 \begin{center}
 \begin{tikzpicture}
 \pie{5/Algebra I, 16/Geometry, 46/Algebra II, 28/Advanced Math, 5/Calculus}
 \end{tikzpicture}
 \end{center}
 
-The graph above indicates the highest level of math completed by high school graduates in the U.S. in 2005.\footnote{U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, High School Transcript Study (HSTS), Mathematics Curriculum Study, 2005.}
+The graph above indicates the highest level of math completed by high school graduates in the U.S. in 2005.
 
 \begin{enumerate}[labelindent=*,style=multiline,leftmargin=*,label=\textbf{Example \arabic*:}]
 \item What proportion of students completed Algebra II or Advanced Math over all other courses?
@@ -24,15 +26,13 @@ The graph above indicates the highest level of math completed by high school gra
 \newpage
 \begin{center}
 \begin{tikzpicture}
-\begin{axis}[%
+\begin{axis}[
 title=\bfseries\fontfamily{cmss}\selectfont{\large Temperature vs Cricket Chirps},
 grid=major,
 xlabel={Temperature ($^\circ$ F)},
 ylabel={Number of Chirps (per minute)},
-scatter/classes={%
-    a={gray}}]
-\addplot[scatter,only marks,%
-    scatter src=explicit symbolic]%
+scatter/classes={a={gray}}]
+\addplot[scatter,only marks,scatter src=explicit symbolic]
 table[meta=label] {
 x y label
 89 20 a
@@ -75,9 +75,9 @@ The graph above shows the number of chirps a cricket makes per minute versus the
 \2 2
 \2 3
 \2 4
+\vfill\phantom{}
 
-\midline
-
+\columnbreak
 \1 Which of the following is likely not a point on the graph?
 
 \bigskip
@@ -93,7 +93,8 @@ The graph above shows the number of chirps a cricket makes per minute versus the
 \2 $(90,18)$
 \2 $(100,20)$
 
-\columnbreak
+\vfill\phantom{}
+\pagebreak
 \advanced
 
 \1 What is the difference in temperature between the temperatures of the highest and lowest number of chirps per minute recorded?
