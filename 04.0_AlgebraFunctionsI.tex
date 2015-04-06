@@ -1,0 +1,60 @@
+\chapter{Algebra and Functions: Part I}
+
+Functions are a big part of the SAT math section. In general, we use the symbols $f(x)$ (or $y$) to indicate a function of the input $x$. A \textit{function} is defined as a set of rules which maps to each input one and only one output. Figure \ref{fig:function_figure} below shows a mapping between two sets where each input has exactly one output. Figure \ref{fig:relation_figure} is an example of a mapping between two sets that are not functions because $f(a)$ has two outputs: 2 and 4.
+
+
+\bigskip
+\begin{figure}[ht]
+\begin{minipage}[b]{0.45\textwidth}
+\centering
+\begin{tikzpicture}[ele/.style={fill=black,circle,minimum width=.8pt,inner sep=1pt},every fit/.style={ellipse,draw,inner sep=-2pt}, very thick]
+\node (a0) at (0,5.25) {\textbf{Input}};
+\node (a1) at (0,4) {$a$};
+\node (a2) at (0,3) {$b$};
+\node (a3) at (0,2) {$c$};
+\node (a4) at (0,1) {$d$};
+
+\node (a0) at (3,5.25) {\textbf{Output}};
+\node (b1) at (3,4) {$1$};
+\node (b2) at (3,3) {$2$};
+\node (b3) at (3,2) {$3$};
+\node (b4) at (3,1) {$4$};
+
+\node[draw,fit= (a1) (a2) (a3) (a4),minimum width=2cm] {} ;
+\node[draw,fit= (b1) (b2) (b3) (b4),minimum width=2cm] {} ;  
+\draw[-latex,thick,shorten <=2pt,shorten >=2pt] (a1) -- (b4);
+\draw[-latex,thick,shorten <=2pt,shorten >=2] (a2) -- (b2);
+\draw[-latex,thick,shorten <=2pt,shorten >=2] (a3) -- (b1);
+\draw[-latex,thick,shorten <=2pt,shorten >=2] (a4) -- (b3);
+\end{tikzpicture}
+\caption{A function}
+\label{fig:function_figure}
+\end{minipage}
+\quad
+\begin{minipage}[b]{0.45\textwidth}
+\centering
+\begin{tikzpicture}[ele/.style={fill=black,circle,minimum width=.8pt,inner sep=1pt},every fit/.style={ellipse,draw,inner sep=-2pt}, very thick]
+\node (a0) at (0,5.25) {\textbf{Input}};
+\node (a1) at (0,4) {$a$};
+\node (a2) at (0,3) {$b$};
+\node (a3) at (0,2) {$c$};
+\node (a4) at (0,1) {$d$};
+
+\node (a0) at (3,5.25) {\textbf{Output}};
+\node (b1) at (3,4) {$1$};
+\node (b2) at (3,3) {$2$};
+\node (b3) at (3,2) {$3$};
+\node (b4) at (3,1) {$4$};
+
+\node[draw,fit= (a1) (a2) (a3) (a4),minimum width=2cm] {};
+\node[draw,fit= (b1) (b2) (b3) (b4),minimum width=2cm] {};
+\draw[-latex,thick,shorten <=2pt,shorten >=2pt] (a1) -- (b4);
+\draw[-latex,thick,shorten <=2pt,shorten >=2] (a2) -- (b2);
+\draw[-latex,thick,shorten <=2pt,shorten >=2] (a1) -- (b2);
+\draw[-latex,thick,shorten <=2pt,shorten >=2] (a3) -- (b1);
+\draw[-latex,thick,shorten <=2pt,shorten >=2] (a4) -- (b3);
+\end{tikzpicture}
+\caption{Not a function}
+\label{fig:relation_figure}
+\end{minipage}
+\end{figure}
